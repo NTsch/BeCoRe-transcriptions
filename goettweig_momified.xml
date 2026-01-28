@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cei="http://www.monasterium.net/NS/cei">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -250,8 +250,7 @@
          <graphic height="1979px" url="AT-StiAG_GoettweigOSB_1288_VIII_16.jpg" width="3000px"/>
       </surface>
       <surface lrx="3000" lry="1980" ulx="0" uly="0" xml:id="facs_13">
-         <graphic height="1980px" url="102079925.jpg" width="3000px"/>
-         <graphic height="1980px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=WTSIACECBHCZLFIBAIQZBOIR" width="3000px"/>
+         <graphic height="1980px" url="AT-StiAG_GoettweigOSB_1309_IV_24.jpg" width="3000px"/>
          <zone points="1028,430 2955,430 2955,939 1028,939" rendition="TextRegion" xml:id="facs_13_r">
             <zone points="1031,394 2300,394 2300,485 1031,485" rendition="Line" xml:id="facs_13_l"/>
             <zone points="1033,464 2350,464 2350,514 1033,514" rendition="Line" xml:id="facs_13_l_1"/>
@@ -270,8 +269,7 @@
          <graphic height="2547px" url="AT-StiAG_GoettweigOSB_1314_IV_24.jpg" width="3000px"/>
       </surface>
       <surface lrx="3000" lry="2274" ulx="0" uly="0" xml:id="facs_15">
-         <graphic height="2274px" url="102079926.jpg" width="3000px"/>
-         <graphic height="2274px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=ORXZKCUVBIKLBEHXGXSAWMYH" width="3000px"/>
+         <graphic height="2274px" url="AT-StiAG_GoettweigOSB_1326_I_20.jpg" width="3000px"/>
          <zone points="981,239 2572,239 2572,1259 981,1259" rendition="TextRegion" xml:id="facs_15_r_2">
             <zone points="967,200 2477,200 2477,393 967,393" rendition="Line" xml:id="facs_15_l_19"/>
             <zone points="1034,290 2492,290 2492,444 1034,444" rendition="Line" xml:id="facs_15_l_20"/>
@@ -295,8 +293,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="2010" ulx="0" uly="0" xml:id="facs_16">
-         <graphic height="2010px" url="102080040.jpg" width="3000px"/>
-         <graphic height="2010px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=RUBJTPOXZWFQVRFDAJXTBJHY" width="3000px"/>
+         <graphic height="2010px" url="AT-StiAG_GoettweigOSB_1332_III_29.jpg" width="3000px"/>
          <zone points="945,382 2970,382 2970,997 945,997" rendition="TextRegion" xml:id="facs_16_r">
             <zone points="933,335 2775,335 2775,446 933,446" rendition="Line" xml:id="facs_16_l"/>
             <zone points="944,420 2711,420 2711,478 944,478" rendition="Line" xml:id="facs_16_l_1"/>
@@ -315,8 +312,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1828" ulx="0" uly="0" xml:id="facs_17">
-         <graphic height="1828px" url="102080041.jpg" width="3000px"/>
-         <graphic height="1828px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=RXYXJYZFOFGRDYSDUBTONZCM" width="3000px"/>
+         <graphic height="1828px" url="AT-StiAG_GoettweigOSB_1345_III_20.jpg" width="3000px"/>
          <zone points="881,201 2980,201 2980,1308 881,1308" rendition="TextRegion" xml:id="facs_17_r">
             <zone points="868,164 2665,164 2665,252 868,252" rendition="Line" xml:id="facs_17_l"/>
             <zone points="882,232 2633,232 2633,295 882,295" rendition="Line" xml:id="facs_17_l_1"/>
@@ -381,8 +377,7 @@
          <graphic height="2273px" url="AT-StiAG_GoettweigOSB_1357_VIII_10.jpg" width="3000px"/>
       </surface>
       <surface lrx="3000" lry="2128" ulx="0" uly="0" xml:id="facs_22">
-         <graphic height="2128px" url="102079929.jpg" width="3000px"/>
-         <graphic height="2128px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=NAJRIGCLHJBENCCUUFTHHGIL" width="3000px"/>
+         <graphic height="2128px" url="AT-StiAG_GoettweigOSB_1360_IX_01.jpg" width="3000px"/>
          <zone points="987,230 2969,230 2969,1207 987,1207" rendition="TextRegion" xml:id="facs_22_r">
             <zone points="1031,190 2490,190 2490,280 1031,280" rendition="Line" xml:id="facs_22_l"/>
             <zone points="1027,259 2511,259 2511,316 1027,316" rendition="Line" xml:id="facs_22_l_1"/>
@@ -453,8 +448,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="2061" ulx="0" uly="0" xml:id="facs_25">
-         <graphic height="2061px" url="102080020.jpg" width="3000px"/>
-         <graphic height="2061px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=ZIKDGRJCCLFFJXITBLNFXYLT" width="3000px"/>
+         <graphic height="2061px" url="AT-StiAG_GoettweigOSB_1364_I_21.jpg" width="3000px"/>
          <zone points="860,176 2756,176 2756,1180 860,1180" rendition="TextRegion" xml:id="facs_25_r_2">
             <zone points="926,215 2637,215 2637,309 926,309" rendition="Line" xml:id="facs_25_l_24"/>
             <zone points="910,280 2657,280 2657,355 910,355" rendition="Line" xml:id="facs_25_l_25"/>
@@ -483,8 +477,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="2200" ulx="0" uly="0" xml:id="facs_26">
-         <graphic height="2200px" url="102080045.jpg" width="3000px"/>
-         <graphic height="2200px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=DZOTTKYTKGHSGHOOFFSETYBT" width="3000px"/>
+         <graphic height="2200px" url="AT-StiAG_GoettweigOSB_1365_V_04.1.jpg" width="3000px"/>
          <zone points="841,308 2661,308 2661,1427 841,1427" rendition="TextRegion" xml:id="facs_26_r_2">
             <zone points="828,248 2534,248 2534,368 828,368" rendition="Line" xml:id="facs_26_l_22"/>
             <zone points="841,349 2482,349 2482,415 841,415" rendition="Line" xml:id="facs_26_l_23"/>
@@ -543,8 +536,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="2263" ulx="0" uly="0" xml:id="facs_33">
-         <graphic height="2263px" url="102080049.jpg" width="3000px"/>
-         <graphic height="2263px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=QVITTFCTEUWHTHMFRRBMZMYH" width="3000px"/>
+         <graphic height="2263px" url="AT-StiAG_GoettweigOSB_1378_I_06.jpg" width="3000px"/>
          <zone points="432,653 2967,653 2967,1529 432,1529" rendition="TextRegion" xml:id="facs_33_r_2">
             <zone points="436,699 2667,699 2667,813 436,813" rendition="Line" xml:id="facs_33_l_22"/>
             <zone points="434,782 2693,782 2693,836 434,836" rendition="Line" xml:id="facs_33_l_23"/>
@@ -575,8 +567,7 @@
          <graphic height="1691px" url="AT-StiAG_GoettweigOSB_1385_X_21.jpg" width="3000px"/>
       </surface>
       <surface lrx="3000" lry="2214" ulx="0" uly="0" xml:id="facs_36">
-         <graphic height="2214px" url="102080025.jpg" width="3000px"/>
-         <graphic height="2214px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=DURFIVOUQUNPQUIFZQWSOGQR" width="3000px"/>
+         <graphic height="2214px" url="AT-StiAG_GoettweigOSB_1386_III_04.jpg" width="3000px"/>
          <zone points="832,221 2965,221 2965,1288 832,1288" rendition="TextRegion" xml:id="facs_36_r">
             <zone points="933,174 2452,174 2452,277 933,277" rendition="Line" xml:id="facs_36_l"/>
             <zone points="927,241 2421,241 2421,302 927,302" rendition="Line" xml:id="facs_36_l_1"/>
@@ -611,8 +602,7 @@
          <graphic height="2228px" url="AT-StiAG_GoettweigOSB_1387_III_22.jpg" width="3000px"/>
       </surface>
       <surface lrx="3000" lry="2988" ulx="0" uly="0" xml:id="facs_38">
-         <graphic height="2988px" url="102080052.jpg" width="3000px"/>
-         <graphic height="2988px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=WZTUTFZYBZPQNLKTYJJQLBPE" width="3000px"/>
+         <graphic height="2988px" url="AT-StiAG_GoettweigOSB_1394_III_24.jpg" width="3000px"/>
          <zone points="516,810 2617,810 2617,1912 516,1912" rendition="TextRegion" xml:id="facs_38_r_3">
             <zone points="526,866 2496,866 2496,1012 526,1012" rendition="Line" xml:id="facs_38_l_11"/>
             <zone points="518,966 2502,966 2502,1054 518,1054" rendition="Line" xml:id="facs_38_l_13"/>
@@ -640,8 +630,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="2811" ulx="0" uly="0" xml:id="facs_39">
-         <graphic height="2811px" url="102080026.jpg" width="3000px"/>
-         <graphic height="2811px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=QRZAKVZMWABINUNYSKKUOBZP" width="3000px"/>
+         <graphic height="2811px" url="AT-StiAG_GoettweigOSB_1396_III_07.jpg" width="3000px"/>
          <zone points="1011,402 2888,402 2888,2051 1011,2051" rendition="TextRegion" xml:id="facs_39_r_2">
             <zone points="1211,366 2723,366 2723,523 1211,523" rendition="Line" xml:id="facs_39_l_30"/>
             <zone points="1046,459 2692,459 2692,580 1046,580" rendition="Line" xml:id="facs_39_l_31"/>
@@ -668,8 +657,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1472" ulx="0" uly="0" xml:id="facs_40">
-         <graphic height="1472px" url="102080053.jpg" width="3000px"/>
-         <graphic height="1472px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=XVWBRKNXDOCCMTCYKFETQNAL" width="3000px"/>
+         <graphic height="1472px" url="AT-StiAG_GoettweigOSB_1401_III_12.jpg" width="3000px"/>
          <zone points="841,302 2884,302 2884,997 841,997" rendition="TextRegion" xml:id="facs_40_r">
             <zone points="827,284 2776,284 2776,342 827,342" rendition="Line" xml:id="facs_40_l"/>
             <zone points="834,325 2776,325 2776,372 834,372" rendition="Line" xml:id="facs_40_l_1"/>
@@ -697,8 +685,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1753" ulx="0" uly="0" xml:id="facs_41">
-         <graphic height="1753px" url="102080027.jpg" width="3000px"/>
-         <graphic height="1753px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=CVUQZYXFAKBXEWEBFBRTBHXU" width="3000px"/>
+         <graphic height="1753px" url="AT-StiAG_GoettweigOSB_1402-1431.jpg" width="3000px"/>
          <zone points="778,133 2954,133 2954,1383 778,1383" rendition="TextRegion" xml:id="facs_41_r">
             <zone points="767,64 2858,64 2858,220 767,220" rendition="Line" xml:id="facs_41_l"/>
             <zone points="781,167 2858,167 2858,262 781,262" rendition="Line" xml:id="facs_41_l_1"/>
@@ -731,8 +718,7 @@
          <graphic height="1677px" url="AT-StiAG_GoettweigOSB_1402_II_02.jpg" width="3000px"/>
       </surface>
       <surface lrx="3000" lry="2066" ulx="0" uly="0" xml:id="facs_43">
-         <graphic height="2066px" url="102080054.jpg" width="3000px"/>
-         <graphic height="2066px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=VXJGGOJGUGXQNRYUUXVLTXUY" width="3000px"/>
+         <graphic height="2066px" url="AT-StiAG_GoettweigOSB_1403_II_02.jpg" width="3000px"/>
          <zone points="1030,266 2958,266 2958,1148 1030,1148" rendition="TextRegion" xml:id="facs_43_r">
             <zone points="1018,219 2573,219 2573,330 1018,330" rendition="Line" xml:id="facs_43_l"/>
             <zone points="1041,302 2563,302 2563,356 1041,356" rendition="Line" xml:id="facs_43_l_1"/>
@@ -759,8 +745,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="2137" ulx="0" uly="0" xml:id="facs_44">
-         <graphic height="2137px" url="102080029.jpg" width="3000px"/>
-         <graphic height="2137px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=GQQHPFHECFOVGVXYWIBPZTSB" width="3000px"/>
+         <graphic height="2137px" url="AT-StiAG_GoettweigOSB_1403_III_30.jpg" width="3000px"/>
          <zone points="844,341 2972,341 2972,1395 844,1395" rendition="TextRegion" xml:id="facs_44_r">
             <zone points="839,282 2822,282 2822,385 839,385" rendition="Line" xml:id="facs_44_l"/>
             <zone points="844,375 2815,375 2815,430 844,430" rendition="Line" xml:id="facs_44_l_1"/>
@@ -785,8 +770,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1799" ulx="0" uly="0" xml:id="facs_45">
-         <graphic height="1799px" url="102080055.jpg" width="3000px"/>
-         <graphic height="1799px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=LHJXODXRGKZLESKCPNTHYIUA" width="3000px"/>
+         <graphic height="1799px" url="AT-StiAG_GoettweigOSB_1403_X_18.jpg" width="3000px"/>
          <zone points="947,245 2973,245 2973,1383 947,1383" rendition="TextRegion" xml:id="facs_45_r">
             <zone points="939,187 2662,187 2662,350 939,350" rendition="Line" xml:id="facs_45_l"/>
             <zone points="944,274 2686,274 2686,388 944,388" rendition="Line" xml:id="facs_45_l_1"/>
@@ -815,8 +799,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1859" ulx="0" uly="0" xml:id="facs_46">
-         <graphic height="1859px" url="102080056.jpg" width="3000px"/>
-         <graphic height="1859px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=DTWXBIARUCRMQFPDOQBYVRJH" width="3000px"/>
+         <graphic height="1859px" url="AT-StiAG_GoettweigOSB_1406_XI_01.jpg" width="3000px"/>
          <zone points="910,523 2972,523 2972,1380 910,1380" rendition="TextRegion" xml:id="facs_46_r">
             <zone points="1075,479 2689,479 2689,560 1075,560" rendition="Line" xml:id="facs_46_l"/>
             <zone points="898,544 2691,544 2691,607 898,607" rendition="Line" xml:id="facs_46_l_1"/>
@@ -840,8 +823,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1647" ulx="0" uly="0" xml:id="facs_47">
-         <graphic height="1647px" url="102080030.jpg" width="3000px"/>
-         <graphic height="1647px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=KRSMJODGCXRLTPNIAPJBJGIU" width="3000px"/>
+         <graphic height="1647px" url="AT-StiAG_GoettweigOSB_1408_IV_22.2.jpg" width="3000px"/>
          <zone points="1175,278 2977,278 2977,1022 1175,1022" rendition="TextRegion" xml:id="facs_47_r">
             <zone points="1166,254 2496,254 2496,323 1166,323" rendition="Line" xml:id="facs_47_l"/>
             <zone points="1626,312 2484,312 2484,346 1626,346" rendition="Line" xml:id="facs_47_l_2"/>
@@ -933,8 +915,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1963" ulx="0" uly="0" xml:id="facs_51">
-         <graphic height="1963px" url="102080059.jpg" width="3000px"/>
-         <graphic height="1963px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=HBJGZUUTHQBCUATLSNXEKGVL" width="3000px"/>
+         <graphic height="1963px" url="AT-StiAG_GoettweigOSB_1409_VII_12.jpg" width="3000px"/>
          <zone points="909,248 2971,248 2971,1126 909,1126" rendition="TextRegion" xml:id="facs_51_r">
             <zone points="915,205 2568,205 2568,297 915,297" rendition="Line" xml:id="facs_51_l"/>
             <zone points="915,272 2559,272 2559,341 915,341" rendition="Line" xml:id="facs_51_l_1"/>
@@ -963,8 +944,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1782" ulx="0" uly="0" xml:id="facs_52">
-         <graphic height="1782px" url="102080032.jpg" width="3000px"/>
-         <graphic height="1782px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=DPGCMWTNBKUMXSMNMZFHMBZY" width="3000px"/>
+         <graphic height="1782px" url="AT-StiAG_GoettweigOSB_1410_V_31.jpg" width="3000px"/>
          <zone points="785,138 2972,138 2972,850 785,850" rendition="TextRegion" xml:id="facs_52_r">
             <zone points="855,101 2793,101 2793,180 855,180" rendition="Line" xml:id="facs_52_l"/>
             <zone points="771,133 2758,133 2758,225 771,225" rendition="Line" xml:id="facs_52_l_1"/>
@@ -988,8 +968,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="2022" ulx="0" uly="0" xml:id="facs_53">
-         <graphic height="2022px" url="102080060.jpg" width="3000px"/>
-         <graphic height="2022px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=WHDSYJLNRPNHDGIWZNXZZBBB" width="3000px"/>
+         <graphic height="2022px" url="AT-StiAG_GoettweigOSB_1411_XI_11.jpg" width="3000px"/>
          <zone points="903,628 2955,628 2955,1715 903,1715" rendition="TextRegion" xml:id="facs_53_r">
             <zone points="908,573 2691,573 2691,700 908,700" rendition="Line" xml:id="facs_53_l"/>
             <zone points="908,647 2720,647 2720,750 908,750" rendition="Line" xml:id="facs_53_l_1"/>
@@ -1013,8 +992,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1752" ulx="0" uly="0" xml:id="facs_54">
-         <graphic height="1752px" url="102080033.jpg" width="3000px"/>
-         <graphic height="1752px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=JNPJTFRLRYGKOEETZPCOFEII" width="3000px"/>
+         <graphic height="1752px" url="AT-StiAG_GoettweigOSB_1420_VII_12.jpg" width="3000px"/>
          <zone points="955,536 2951,536 2951,907 955,907" rendition="TextRegion" xml:id="facs_54_r">
             <zone points="943,501 2504,501 2504,569 943,569" rendition="Line" xml:id="facs_54_l"/>
             <zone points="1048,551 2592,551 2592,615 1048,615" rendition="Line" xml:id="facs_54_l_1"/>
@@ -1049,8 +1027,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1844" ulx="0" uly="0" xml:id="facs_56">
-         <graphic height="1844px" url="102080034.jpg" width="3000px"/>
-         <graphic height="1844px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=ILXBMDSJOHNDFSSNDGGCJXNP" width="3000px"/>
+         <graphic height="1844px" url="AT-StiAG_GoettweigOSB_1435_VII_18.1.jpg" width="3000px"/>
          <zone points="474,650 2971,650 2971,1498 474,1498" rendition="TextRegion" xml:id="facs_56_r">
             <zone points="539,612 2619,612 2619,712 539,712" rendition="Line" xml:id="facs_56_l"/>
             <zone points="604,693 2632,693 2632,748 604,748" rendition="Line" xml:id="facs_56_l_1"/>
@@ -1156,8 +1133,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1937" ulx="0" uly="0" xml:id="facs_60">
-         <graphic height="1937px" url="102080036.jpg" width="3000px"/>
-         <graphic height="1937px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=UPAWRTCGBCGZZCIUFLSXGDOP" width="3000px"/>
+         <graphic height="1937px" url="AT-StiAG_GoettweigOSB_1457_IV_22.jpg" width="3000px"/>
          <zone points="850,145 2796,145 2796,1480 850,1480" rendition="TextRegion" xml:id="facs_60_r">
             <zone points="881,184 2789,184 2789,316 881,316" rendition="Line" xml:id="facs_60_l_1"/>
             <zone points="867,275 2724,275 2724,350 867,350" rendition="Line" xml:id="facs_60_l_2"/>
@@ -1392,8 +1368,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="1739" ulx="0" uly="0" xml:id="facs_69">
-         <graphic height="1739px" url="102080080.jpg" width="3000px"/>
-         <graphic height="1739px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=YKECDXZNAGNJEHJSODQCNJMZ" width="3000px"/>
+         <graphic height="1739px" url="AT-StiAG_GoettweigOSB_1475_II_02.jpg" width="3000px"/>
          <zone points="977,260 2892,260 2892,835 977,835" rendition="TextRegion" xml:id="facs_69_r">
             <zone points="987,214 2730,214 2730,313 987,313" rendition="Line" xml:id="facs_69_l"/>
             <zone points="972,281 2712,281 2712,340 972,340" rendition="Line" xml:id="facs_69_l_1"/>
@@ -1651,8 +1626,7 @@
          </zone>
       </surface>
       <surface lrx="3000" lry="2456" ulx="0" uly="0" xml:id="facs_77">
-         <graphic height="2456px" url="102080073.jpg" width="3000px"/>
-         <graphic height="2456px" url="https://files.transkribus.eu/Get?fileType=view&amp;id=MJWIKDGJUKZXATVYZTYATNKO" width="3000px"/>
+         <graphic height="2456px" url="AT-StiAG_GoettweigOSB_1489_VIII_07.jpg" width="3000px"/>
          <zone points="575,744 2978,744 2978,1543 575,1543" rendition="TextRegion" xml:id="facs_77_r_2">
             <zone points="632,769 2488,769 2488,889 632,889" rendition="Line" xml:id="facs_77_l_23"/>
             <zone points="570,837 2560,837 2560,914 570,914" rendition="Line" xml:id="facs_77_l_24"/>
@@ -2932,19 +2906,19 @@
             </ab>
             <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             <ab facs="#facs_4_r">
-               <cei:lb facs="#facs_4_l" n="N001"/>IN NOMINE DOMINI AMEN [Heinricus|Heinric] [dei|di] [gratia|gra] abbas [sancte|sce] Marie [ecclesie|ecclie] Kot
-               <cei:lb facs="#facs_4_l_1" n="N002"/>censis una [cum|c] conventu suo [omnibus|omib] [presentium|psentiu] [inspectoribus|inspectorib] [salutem|salt] invero salutari Certio<cei:damage>...</cei:damage>a
-               <cei:lb facs="#facs_4_l_2" n="N003"/>s* oia* [et|%] minori possunt calu*pnia [perturbari|pt<cei:damage>...</cei:damage>bari] q* [scripture|scipture] &amp; testiu* [|memoria] fuer
+               <cei:lb facs="#facs_4_l" n="N001"/>IN NOMINE DOMINI AMEN Heinricus dei gratia abbas sancte Marie ecclesie Kot
+               <cei:lb facs="#facs_4_l_1" n="N002"/>censis una cum conventu suo omnibus presentium inspectoribus salutem invero salutari Certio<cei:damage>...</cei:damage>a
+               <cei:lb facs="#facs_4_l_2" n="N003"/>s* oia* et minori possunt calu*pnia perturbari<cei:damage>...</cei:damage> q* scripture &amp; testiu* memoria fuer
                <cei:lb facs="#facs_4_l_3" n="N004"/>
-               <cei:lb facs="#facs_4_l_4" n="N005"/> [tria|tia]
+               <cei:lb facs="#facs_4_l_4" n="N005"/> tria
                <cei:lb facs="#facs_4_l_5" n="N006"/>
-               <cei:lb facs="#facs_4_l_6" n="N007"/>[condictione|%dictione]
-               <cei:lb facs="#facs_4_l_7" n="N008"/> [dictorum|dco%]
-               <cei:lb facs="#facs_4_l_8" n="N009"/>ab[aliqua|aliqa]
+               <cei:lb facs="#facs_4_l_6" n="N007"/>condictione
+               <cei:lb facs="#facs_4_l_7" n="N008"/> dictorum
+               <cei:lb facs="#facs_4_l_8" n="N009"/>abaliqua
                <cei:lb facs="#facs_4_l_9" n="N010"/>
                <cei:lb facs="#facs_4_l_10" n="N011"/>
                <cei:lb facs="#facs_4_l_11" n="N012"/>
-               <cei:lb facs="#facs_4_l_12" n="N013"/>[Millesimo|Mo] cc lvi.
+               <cei:lb facs="#facs_4_l_12" n="N013"/>Millesimo cc lvi.
             </ab>
             <pb facs="#facs_5" n="5" xml:id="img_0005"/>
             <ab facs="#facs_5_r_1">
@@ -3045,10 +3019,10 @@
                <cei:lb facs="#facs_13_l_1" n="N002"/>tun chunt alln den di nu sint und her nach chunftich werdnt di disn prief hor<cei:damage>...</cei:damage>
                <cei:lb facs="#facs_13_l_2" n="N003"/>daz der Heinrich druchsetz von Utzeinsdorf mit aller siner erbn gutlichem willen <cei:damage>...</cei:damage> durch
                <cei:lb facs="#facs_13_l_3" n="N004"/>Got und durch siner sel willen und aller siner vreund sel willen hat gegebn unserm <cei:damage>...</cei:damage> ewichleich
-               <cei:lb facs="#facs_13_l_4" n="N005"/>aen phunt gult [wienner pfenning ze Chuffarn und daz selb pfunt sol ver Elspet sein tohter <cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_13_l_4" n="N005"/>aen phunt gult wienner pfenning ze Chuffarn und daz selb pfunt sol ver Elspet sein tohter <cei:damage>...</cei:damage>
                <cei:lb facs="#facs_13_l_5" n="N006"/>und swester ist in unserm vrowen chloster habn und nutzen untz an iren tot mit unser aller gutlichem
                <cei:lb facs="#facs_13_l_6" n="N007"/>willen ze pezzerung irer pfruent und swann si niht en ist so sol daz selb pfunt pfenning furbaz
-               <cei:lb facs="#facs_13_l_7" n="N008"/>unserm Gotshaus dienen ewichleich on all [wider red Dor uber habn wir der vorgnantn vern Elspetn
+               <cei:lb facs="#facs_13_l_7" n="N008"/>unserm Gotshaus dienen ewichleich on all wider red Dor uber habn wir der vorgnantn vern Elspetn
                <cei:lb facs="#facs_13_l_8" n="N009"/>gegebn disn prief fur all ansproch ze einem vestem urchund beslozzen mit unsern insigeln diser prief
                <cei:lb facs="#facs_13_l_9" n="N010"/>ist gebn ze Chotweig do von Christes gepurt worn ergangen dreuczehn hundert jar in dem <cei:damage>...</cei:damage>
                <cei:lb facs="#facs_13_l_10" n="N011"/>jar an sand Gorgen tag
@@ -3068,10 +3042,10 @@
                <cei:lb facs="#facs_15_l_28" n="N010"/>seczen mit verchauffen oder geben wem se wellent mit unserr hant als
                <cei:lb facs="#facs_15_l_29" n="N011"/>purchrechtes recht und gewonhait ist in dem land ze Osterreich und do
                <cei:lb facs="#facs_15_l_30" n="N012"/>van schullen se uns und unserm vorgenanten gotshaus dacz Chotweig
-               <cei:lb facs="#facs_15_l_31" n="N013"/>dienen und raichen alle jar an sand Michels tag zwelif schilling [wienner
+               <cei:lb facs="#facs_15_l_31" n="N013"/>dienen und raichen alle jar an sand Michels tag zwelif schilling wienner
                <cei:lb facs="#facs_15_l_32" n="N014"/>pfenning und ander nicht an steur an losung und an allen andern
                <cei:lb facs="#facs_15_l_33" n="N015"/>umbgelt wie der gemant sei und dor uber ze urchund und zu
-               <cei:lb facs="#facs_15_l_34" n="N016"/>einem waren zeug geb wier in disen prief versigelt mit [unsern
+               <cei:lb facs="#facs_15_l_34" n="N016"/>einem waren zeug geb wier in disen prief versigelt mit unsern
                <cei:lb facs="#facs_15_l_35" n="N017"/>paiden Insigeln Der prief ist gegeben und dicz ist geschehen do
                <cei:lb facs="#facs_15_l_36" n="N018"/>von Christes puerd warn ergangen dreuczehen hundert jar dor nach
                <cei:lb facs="#facs_15_l_37" n="N019"/>in dem sechs und zwainzigisten jar des nasten pfinztag vor vaschang
@@ -3089,7 +3063,7 @@
                <cei:lb facs="#facs_16_l_8" n="N009"/>vrowen an allen chrieg und dar umb daz im daz stet behalten werd von uns und von unsern noch-
                <cei:lb facs="#facs_16_l_9" n="N010"/>chomen geb wir im disen offen brief versigelt mit unserm hangunden Insigel und mit der erbern
                <cei:lb facs="#facs_16_l_10" n="N011"/>Gestlichen vrowen Insigel der abtessin von Ybs di des selben weingarten Perchvrowe ist Und mit
-               <cei:lb facs="#facs_16_l_11" n="N012"/>des Erbern [herren hern Jansen Insigel von Chunring ze einem offen urchund diser sach Der brief
+               <cei:lb facs="#facs_16_l_11" n="N012"/>des Erbern herren hern Jansen Insigel von Chunring ze einem offen urchund diser sach Der brief
                <cei:lb facs="#facs_16_l_12" n="N013"/>ist geben ze Chotweig do man zalt von Christes geburd druczehenhundert jar in dem zwai und
                <cei:lb facs="#facs_16_l_13" n="N014"/>dreczgistem Jarn an dem suntag ze Mitter vasten.
             </ab>
@@ -3104,7 +3078,7 @@
                <cei:lb facs="#facs_17_l_6" n="N007"/>phenning purchrechtes geleit die man dem gotzhaus alle jar rayhen schol an sand Georigen tag und nicht mer man
                <cei:lb facs="#facs_17_l_7" n="N008"/>schol auch die vorgenanten Viertzich phenning purchrechtes rayhen hintz dem Dorflein wer dez gotzhaus Amman do ist und nicht
                <cei:lb facs="#facs_17_l_8" n="N009"/>anderswa Wir schullen auch hintz dem egenanten lehen dhain vordrung nicht haben weder mit stewer noch mit nachtseld
-               <cei:lb facs="#facs_17_l_9" n="N010"/>noch mit moln noch mit dehainerlaye vordrung denn swenn seu oder ir erben die vorgenanten viertzich phenning unserm [amman
+               <cei:lb facs="#facs_17_l_9" n="N010"/>noch mit moln noch mit dehainerlaye vordrung denn swenn seu oder ir erben die vorgenanten viertzich phenning unserm amman
                <cei:lb facs="#facs_17_l_10" n="N011"/>gerayhent an sand Georigen <cei:damage>t</cei:damage>ag so haben wir hintz dem vorgenanten lehen dez Jares ni<cei:damage>...</cei:damage> mer ze sprechen Waer aber daz der
                <cei:lb facs="#facs_17_l_29" n="N012"/>vorgenant Herwort oder de<cei:damage>r</cei:damage> genant Ruger oder ir payder erben daz vorgenant <cei:damage>...</cei:damage> wider verchauffen wolden ez waer
                <cei:lb facs="#facs_17_l_11" n="N013"/>mit einander oder ze aintzige<cei:damage>...</cei:damage> aekchern oder swie in aller peste fueget dez schullen wir <cei:damage>...</cei:damage>ndert irren und schullen seu nur dar-
@@ -3150,29 +3124,29 @@
             <pb facs="#facs_21" n="21" xml:id="img_0021"/>
             <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             <ab facs="#facs_22_r">
-               <cei:lb facs="#facs_22_l" n="N001"/>Wir Ulreich von Gotes [genaden Abt unser Vrawn Gotshaws cze Chotweyg und die gantz [Samnung do selbs
-               <cei:lb facs="#facs_22_l_1" n="N002"/>[vergehen offenleich mit dem brief [allen den die in lesent sehent oder horent lesen Daz uns Thoman
-               <cei:lb facs="#facs_22_l_2" n="N003"/>auz der wyegen und Elspet sein Hausvraw und ir bayder [eriben mit wol [veraittem rat zu der Zeit
-               <cei:lb facs="#facs_22_l_3" n="N004"/>do si es wol getwn mochten [gegeben [habent [Lautterleichen durich got durich irr und durich aller irr
-               <cei:lb facs="#facs_22_l_4" n="N005"/>vodern sel hayl [willen aynn hoff [halben der do leyt in Sand Veits Pharr [dishalben des [Chawnperig
-               <cei:lb facs="#facs_22_l_5" n="N006"/>und haizzet der visingshoff mit alle dew und dor zu gehoret [versuecht und unversuecht ze veld und
-               <cei:lb facs="#facs_22_l_6" n="N007"/>ze dorf gestift und ungestift wye daz genant ist der ir freyz aygen ist gewesen Den [selben [egenanten
-               <cei:lb facs="#facs_22_l_7" n="N008"/>[halben hoff [haben wir in hyn wyder [gelichen mit [allen [den nutzzen di [vorgeschriben stent zu einem freynn
-               <cei:lb facs="#facs_22_l_8" n="N009"/>Purchrecht Also [beschaidenleichen daz seu und all ir nochchomen von dem vorgenanten [halben hoff alle jar
-               <cei:lb facs="#facs_22_l_9" n="N010"/>uns dyenen [schullen an Sand Veits tag auf Sand Veits alter Vier [phenning gemainner wyenner zu rechtem
-               <cei:lb facs="#facs_22_l_10" n="N011"/>Purrecht [ewychleichen und nicht mer Und daz ander halffentail des egenanten Hofs ist dannoch ir freys
-               <cei:lb facs="#facs_22_l_11" n="N012"/>aygen an allew irrung Wir [verpinden uns auch daz wir von dem vorgenanten [halben Hoff dhainnen ungelt
-               <cei:lb facs="#facs_22_l_12" n="N013"/>[ewychleichen nicht vodern noch naemen [schullen waeder wenich noch vil swye der genant mag gesein nwr
-               <cei:lb facs="#facs_22_l_13" n="N014"/>die vier [phenning ze Purchrecht di egenant sind und nicht mer Und waer aber daz man seu verrer notten
+               <cei:lb facs="#facs_22_l" n="N001"/>Wir Ulreich von Gotes genaden Abt unser Vrawn Gotshaws cze Chotweyg und die gantz Samnung do selbs
+               <cei:lb facs="#facs_22_l_1" n="N002"/>vergehen offenleich mit dem brief allen den die in lesent sehent oder horent lesen Daz uns Thoman
+               <cei:lb facs="#facs_22_l_2" n="N003"/>auz der wyegen und Elspet sein Hausvraw und ir bayder eriben mit wol veraittem rat zu der Zeit
+               <cei:lb facs="#facs_22_l_3" n="N004"/>do si es wol getwn mochten gegeben habent Lautterleichen durich got durich irr und durich aller irr
+               <cei:lb facs="#facs_22_l_4" n="N005"/>vodern sel hayl willen aynn hoff halben der do leyt in Sand Veits Pharr dishalben des Chawnperig
+               <cei:lb facs="#facs_22_l_5" n="N006"/>und haizzet der visingshoff mit alle dew und dor zu gehoret versuecht und unversuecht ze veld und
+               <cei:lb facs="#facs_22_l_6" n="N007"/>ze dorf gestift und ungestift wye daz genant ist der ir freyz aygen ist gewesen Den selben egenanten
+               <cei:lb facs="#facs_22_l_7" n="N008"/>halben hoff haben wir in hyn wyder gelichen mit allen den nutzzen di vorgeschriben stent zu einem freynn
+               <cei:lb facs="#facs_22_l_8" n="N009"/>Purchrecht Also beschaidenleichen daz seu und all ir nochchomen von dem vorgenanten halben hoff alle jar
+               <cei:lb facs="#facs_22_l_9" n="N010"/>uns dyenen schullen an Sand Veits tag auf Sand Veits alter Vier phenning gemainner wyenner zu rechtem
+               <cei:lb facs="#facs_22_l_10" n="N011"/>Purrecht ewychleichen und nicht mer Und daz ander halffentail des egenanten Hofs ist dannoch ir freys
+               <cei:lb facs="#facs_22_l_11" n="N012"/>aygen an allew irrung Wir verpinden uns auch daz wir von dem vorgenanten halben Hoff dhainnen ungelt
+               <cei:lb facs="#facs_22_l_12" n="N013"/>ewychleichen nicht vodern noch naemen schullen waeder wenich noch vil swye der genant mag gesein nwr
+               <cei:lb facs="#facs_22_l_13" n="N014"/>die vier phenning ze Purchrecht di egenant sind und nicht mer Und waer aber daz man seu verrer notten
                <cei:lb facs="#facs_22_l_14" n="N015"/>wolt dann daz egenant purchrecht des schol des vorgenanten Sand Veits Chyrichen vogt in vor sein so
-               <cei:lb facs="#facs_22_l_15" n="N016"/>lang mit seinem gewalt daz in alle dew recht vollichleich wider varen die in dem brief [geschriben stent mit
-               <cei:lb facs="#facs_22_l_16" n="N017"/>unserm gutleichem [willen Naemen seu aber des icht schaden den [schullen wir in gantz und gar ablegen an all
+               <cei:lb facs="#facs_22_l_15" n="N016"/>lang mit seinem gewalt daz in alle dew recht vollichleich wider varen die in dem brief geschriben stent mit
+               <cei:lb facs="#facs_22_l_16" n="N017"/>unserm gutleichem willen Naemen seu aber des icht schaden den schullen wir in gantz und gar ablegen an all
                <cei:lb facs="#facs_22_l_17" n="N018"/>wyder red Es mag auch der vorgenant Thoman und sein vorgenantew hausvraw und all ir nachchomen den
-               <cei:lb facs="#facs_22_l_18" n="N019"/>vorgenanten [halben hoff mit den [vorgeschriben rechten [versetzzen [verchauffen [geben swem seu wellent an [allen irrsal
-               <cei:lb facs="#facs_22_l_19" n="N020"/>Und wand man den egenanten [halben hoff [verchauffet so schol man ze ablayt [geben zwen gemainer [wyenner [phenning
-               <cei:lb facs="#facs_22_l_20" n="N021"/>und ze anlaitt als vil und nicht mer Und daz in daz allez stet und [unczeprochen weleib dar uber [geben in wir
-               <cei:lb facs="#facs_22_l_21" n="N022"/>vorgenanter Abt Ulreich di zeit ze Chotweyg und di gantz [Samnung do selbs den brief [versigilten mit [unsern
-               <cei:lb facs="#facs_22_l_22" n="N023"/>bayden anhangunden Insigiln ze einem warn urchund [der sach [Geben nach Christi geburd dreutzehen hundert
+               <cei:lb facs="#facs_22_l_18" n="N019"/>vorgenanten halben hoff mit den vorgeschriben rechten versetzzen verchauffen geben swem seu wellent an allen irrsal
+               <cei:lb facs="#facs_22_l_19" n="N020"/>Und wand man den egenanten halben hoff verchauffet so schol man ze ablayt geben zwen gemainer wyenner phenning
+               <cei:lb facs="#facs_22_l_20" n="N021"/>und ze anlaitt als vil und nicht mer Und daz in daz allez stet und unczeprochen weleib dar uber geben in wir
+               <cei:lb facs="#facs_22_l_21" n="N022"/>vorgenanter Abt Ulreich di zeit ze Chotweyg und di gantz Samnung do selbs den brief versigilten mit unsern
+               <cei:lb facs="#facs_22_l_22" n="N023"/>bayden anhangunden Insigiln ze einem warn urchund der sach Geben nach Christi geburd dreutzehen hundert
                <cei:lb facs="#facs_22_l_23" n="N024"/>jar dar nach in dem Sechtzkistem Jar an Sand Gyligen tag
             </ab>
             <pb facs="#facs_23" n="23" xml:id="img_0023"/>
@@ -3215,28 +3189,28 @@
             </ab>
             <pb facs="#facs_25" n="25" xml:id="img_0025"/>
             <ab facs="#facs_25_r_2">
-               <cei:lb facs="#facs_25_l_24" n="N001"/>Wir Ulreich von gotes gnaden Abt [unserer vrawn Gotzhaws ze Chotweig Vergehen offenbar an dem
-               <cei:lb facs="#facs_25_l_25" n="N002"/>brief Daz wir von ehafter not Und von gelts wegen unsers Gotzhaws Unsers Aygens Di [Gueter di [unserm
+               <cei:lb facs="#facs_25_l_24" n="N001"/>Wir Ulreich von gotes gnaden Abt unserer vrawn Gotzhaws ze Chotweig Vergehen offenbar an dem
+               <cei:lb facs="#facs_25_l_25" n="N002"/>brief Daz wir von ehafter not Und von gelts wegen unsers Gotzhaws Unsers Aygens Di Gueter di unserm
                <cei:lb facs="#facs_25_l_26" n="N003"/>Gotzhaws ledig sint worden Von hern Ortolffen dem Chuliber dem got genad Di gelegen sint in dem
-               <cei:lb facs="#facs_25_l_27" n="N004"/>forst da von mons uns alle jar gedint hat Drithalb phunt und sechtzich [pfenning [wynner muntz Di
-               <cei:lb facs="#facs_25_l_28" n="N005"/>selbigen [guter mit allen den Rechten und nutzen di dor zu gehorent Iz sey ze Veld oder ze dorffe Gestift
-               <cei:lb facs="#facs_25_l_29" n="N006"/>oder ungestift Versucht oder [unversucht wie so di genant sint Haben wir recht und Redleichen ze
+               <cei:lb facs="#facs_25_l_27" n="N004"/>forst da von mons uns alle jar gedint hat Drithalb phunt und sechtzich pfenning wynner muntz Di
+               <cei:lb facs="#facs_25_l_28" n="N005"/>selbigen guter mit allen den Rechten und nutzen di dor zu gehorent Iz sey ze Veld oder ze dorffe Gestift
+               <cei:lb facs="#facs_25_l_29" n="N006"/>oder ungestift Versucht oder unversucht wie so di genant sint Haben wir recht und Redleichen ze
                <cei:lb facs="#facs_25_l_30" n="N007"/>Chawffen geben Unsern lieben in got der gemain unsers Convents do selbiges ze Chotweig in ir
-               <cei:lb facs="#facs_25_l_31" n="N008"/>Oblagy Umb sechs und fumftzich phunt [wynner [pfenninge Der wir gantz und gar gericht und
-               <cei:lb facs="#facs_25_l_32" n="N009"/>gewert sein Und do habent sew alswo umb di [vorgenanten [phenning fumf phunt gelts [verchawft Daz in
-               <cei:lb facs="#facs_25_l_33" n="N010"/>nicht gelegen was Und [schullen sew di [vorgenanten [guter in nutz und in [gewer inne [haben Und nutzen [und niez-
-               <cei:lb facs="#facs_25_l_34" n="N011"/>zen als ander irew [guter in dem forst Di in ir Oblay gehorent Und auch als Aygens recht ist Und
-               <cei:lb facs="#facs_25_l_35" n="N012"/>des Landes recht ze Osterreich Und mugen auch [allen irn frum da schaffen als mit anderm aygen
-               <cei:lb facs="#facs_25_l_36" n="N013"/>daz in ir Oblay gehort Versetzen verchawffen und gewen wem sew [wellent an allen irsal [Und [sullen
-               <cei:lb facs="#facs_25_l_37" n="N014"/>auch mit chainerlay mit den gutern und mit den Holden wir und [unserr nachchomen nicht ze schaffen
-               <cei:lb facs="#facs_25_l_38" n="N015"/>[haben weder mit [Stewerr noch mit Stiften noch mit storen weder vil noch wenich Und sein auch [der
-               <cei:lb facs="#facs_25_l_39" n="N016"/>[vorgenanten [guter wir und [unserr nach chomen Und allez daz dar zu gehort ir recht scherm [und [gewern
-               <cei:lb facs="#facs_25_l_40" n="N017"/>fur all ansprach Als Aygens recht ist Und des Landes recht ze [Osterreich] Waer aber daz in mit recht
-               <cei:lb facs="#facs_25_l_41" n="N018"/>dar an icht abgieng waz si des schaden nement Daz [schullen wir in allez auz richten Daz Loben wir
-               <cei:lb facs="#facs_25_l_42" n="N019"/>in allez ze laysten mit [unsern trewn an allez gevar Und geben in dar uber den brief [Versygelten
-               <cei:lb facs="#facs_25_l_43" n="N020"/>mit unserm anhangundem Insygel Und mit des Erbern [herren Insygel hern Fridliebes di zeit
-               <cei:lb facs="#facs_25_l_44" n="N021"/>[Pharrer ze Mawtarn und auch Official und [Phleger des Pischtumes ze Pazzaw ze einem
-               <cei:lb facs="#facs_25_l_45" n="N022"/>warn urchund der sache Wand di zeit daz Pischtum ze Pazzaw einen besteten [herren nicht
+               <cei:lb facs="#facs_25_l_31" n="N008"/>Oblagy Umb sechs und fumftzich phunt wynner pfenninge Der wir gantz und gar gericht und
+               <cei:lb facs="#facs_25_l_32" n="N009"/>gewert sein Und do habent sew alswo umb di vorgenanten phenning fumf phunt gelts verchawft Daz in
+               <cei:lb facs="#facs_25_l_33" n="N010"/>nicht gelegen was Und schullen sew di vorgenanten guter in nutz und in gewer inne haben Und nutzen und niez-
+               <cei:lb facs="#facs_25_l_34" n="N011"/>zen als ander irew guter in dem forst Di in ir Oblay gehorent Und auch als Aygens recht ist Und
+               <cei:lb facs="#facs_25_l_35" n="N012"/>des Landes recht ze Osterreich Und mugen auch allen irn frum da schaffen als mit anderm aygen
+               <cei:lb facs="#facs_25_l_36" n="N013"/>daz in ir Oblay gehort Versetzen verchawffen und gewen wem sew wellent an allen irsal Und sullen
+               <cei:lb facs="#facs_25_l_37" n="N014"/>auch mit chainerlay mit den gutern und mit den Holden wir und unserr nachchomen nicht ze schaffen
+               <cei:lb facs="#facs_25_l_38" n="N015"/>haben weder mit Stewerr noch mit Stiften noch mit storen weder vil noch wenich Und sein auch der
+               <cei:lb facs="#facs_25_l_39" n="N016"/>vorgenanten guter wir und unserr nach chomen Und allez daz dar zu gehort ir recht scherm und gewern
+               <cei:lb facs="#facs_25_l_40" n="N017"/>fur all ansprach Als Aygens recht ist Und des Landes recht ze Osterreich Waer aber daz in mit recht
+               <cei:lb facs="#facs_25_l_41" n="N018"/>dar an icht abgieng waz si des schaden nement Daz schullen wir in allez auz richten Daz Loben wir
+               <cei:lb facs="#facs_25_l_42" n="N019"/>in allez ze laysten mit unsern trewn an allez gevar Und geben in dar uber den brief Versygelten
+               <cei:lb facs="#facs_25_l_43" n="N020"/>mit unserm anhangundem Insygel Und mit des Erbern herren Insygel hern Fridliebes di zeit
+               <cei:lb facs="#facs_25_l_44" n="N021"/>Pharrer ze Mawtarn und auch Official und Phleger des Pischtumes ze Pazzaw ze einem
+               <cei:lb facs="#facs_25_l_45" n="N022"/>warn urchund der sache Wand di zeit daz Pischtum ze Pazzaw einen besteten herren nicht
                <cei:lb facs="#facs_25_l_46" n="N023"/>gehabt hat Der prief ist geben nach Christi gepurd uber Drewtzehen Hundert jar dar
                <cei:lb facs="#facs_25_l_47" n="N024"/>nach in dem Vier und Sechtzigisten jar an sand Angnesen tag der heyligen Junchvrawn
             </ab>
@@ -3244,23 +3218,23 @@
             <ab facs="#facs_26_r_2">
                <cei:lb facs="#facs_26_l_22" n="N001"/>Wir Ulreich von gots gnaden Probst des Gotzhaws ze sant Polten Christoff Techant und wir .. der Convent
                <cei:lb facs="#facs_26_l_23" n="N002"/>gemainlich daselbs Tun kunt allen den di disen brief an sehent oder hornt lesen di nu lebent und hernach
-               <cei:lb facs="#facs_26_l_24" n="N003"/>chunftig sind Daz wir mit wolbedachtem und mit gemainem rat Recht und redlich [gegeben [haben allen [unsern
-               <cei:lb facs="#facs_26_l_25" n="N004"/>zehent grozzen und [chlainen gestiften und ungestiften versuchten und unversuchten wie di genant sind [gelegen
-               <cei:lb facs="#facs_26_l_26" n="N005"/>ze Hugling in sant Polten pharr auf Michels des Phendleins Hof und auf [Wernharts hof des Mair und auf
+               <cei:lb facs="#facs_26_l_24" n="N003"/>chunftig sind Daz wir mit wolbedachtem und mit gemainem rat Recht und redlich gegeben haben allen unsern
+               <cei:lb facs="#facs_26_l_25" n="N004"/>zehent grozzen und chlainen gestiften und ungestiften versuchten und unversuchten wie di genant sind gelegen
+               <cei:lb facs="#facs_26_l_26" n="N005"/>ze Hugling in sant Polten pharr auf Michels des Phendleins Hof und auf Wernharts hof des Mair und auf
                <cei:lb facs="#facs_26_l_27" n="N006"/>zwain Hofsteten das alles des Gotzhaus ze Chotweig rechts aigen ist und auf ainer Hofstat daselbs di des
-               <cei:lb facs="#facs_26_l_28" n="N007"/>[Losenstainer ist und der in unser Chamer gehort hat [denselben zehent mit [allen den ern nutzen und rechten
-               <cei:lb facs="#facs_26_l_29" n="N008"/>als wir den [unversprochenlich untz auf disen heutigen tag in aigens gewer und auch in nutz und ingewer
-               <cei:lb facs="#facs_26_l_30" n="N009"/>gehabt und her pracht [haben Haben wir [gegeben den Erwerdigen und geistlichen [herren [hern Ulreichen Abbt
+               <cei:lb facs="#facs_26_l_28" n="N007"/>Losenstainer ist und der in unser Chamer gehort hat denselben zehent mit allen den ern nutzen und rechten
+               <cei:lb facs="#facs_26_l_29" n="N008"/>als wir den unversprochenlich untz auf disen heutigen tag in aigens gewer und auch in nutz und ingewer
+               <cei:lb facs="#facs_26_l_30" n="N009"/>gehabt und her pracht haben Haben wir gegeben den Erwerdigen und geistlichen herren hern Ulreichen Abbt
                <cei:lb facs="#facs_26_l_31" n="N010"/>des Gotzhaws ze Chotweig und dem Convent gemainlich daselbs furwas ledichlich und vreylich ze haben
-               <cei:lb facs="#facs_26_l_32" n="N011"/>und allen irn frumen da mit ze schaffen als in und irm Gotzhaws das wol chom und fueg an [allen
-               <cei:lb facs="#facs_26_l_33" n="N012"/>irsal wan wir in den [gegeben [haben zu ainem auswechsel fur irn zehent der gelegen ist in unserr
-               <cei:lb facs="#facs_26_l_34" n="N013"/>pharr bey der stat ze sant Polten der in ir Siechaus gehort hat und sol auch fur  [denselben zehent
-               <cei:lb facs="#facs_26_l_35" n="N014"/>der egenant zehent ze Hugling furwas bey irm Siechhaws [beleiben Auch sein wir des zehents ze
+               <cei:lb facs="#facs_26_l_32" n="N011"/>und allen irn frumen da mit ze schaffen als in und irm Gotzhaws das wol chom und fueg an allen
+               <cei:lb facs="#facs_26_l_33" n="N012"/>irsal wan wir in den gegeben haben zu ainem auswechsel fur irn zehent der gelegen ist in unserr
+               <cei:lb facs="#facs_26_l_34" n="N013"/>pharr bey der stat ze sant Polten der in ir Siechaus gehort hat und sol auch fur  denselben zehent
+               <cei:lb facs="#facs_26_l_35" n="N014"/>der egenant zehent ze Hugling furwas bey irm Siechhaws beleiben Auch sein wir des zehents ze
                <cei:lb facs="#facs_26_l_36" n="N015"/>Hugling ir scherm und gewer fur alle ansprach als aigens und des Landes recht ist ze Osterreich
-               <cei:lb facs="#facs_26_l_37" n="N016"/>Wer aber daz si furwas von [desselben zehents wegen ze Hugling mit recht icht chrieg [oder ansprach
-               <cei:lb facs="#facs_26_l_38" n="N017"/>gewunnen von wem das wer [allen den schaden den si des [nemment den sullen wir in allen ablegen
-               <cei:lb facs="#facs_26_l_39" n="N018"/>und widerchern und [sullen si das [haben auf alle dem gut daz wir [haben in dem Lande ze Osterreich
-               <cei:lb facs="#facs_26_l_40" n="N019"/>und daz zu [unserm Gotzhaus gehoret Des ze Urchunt [geben wir Probst Ulreich und [der Convent ze
+               <cei:lb facs="#facs_26_l_37" n="N016"/>Wer aber daz si furwas von desselben zehents wegen ze Hugling mit recht icht chrieg oder ansprach
+               <cei:lb facs="#facs_26_l_38" n="N017"/>gewunnen von wem das wer allen den schaden den si des nemment den sullen wir in allen ablegen
+               <cei:lb facs="#facs_26_l_39" n="N018"/>und widerchern und sullen si das haben auf alle dem gut daz wir haben in dem Lande ze Osterreich
+               <cei:lb facs="#facs_26_l_40" n="N019"/>und daz zu unserm Gotzhaus gehoret Des ze Urchunt geben wir Probst Ulreich und der Convent ze
                <cei:lb facs="#facs_26_l_41" n="N020"/>sant Polten den brief versiglt mit unsern anhangunden Insigellen Geben ze sant Polten an sant
                <cei:lb facs="#facs_26_l_42" n="N021"/>Florians tag Nach Christes gepurde Dreutzehen Hundert jar darnach in dem fumf und Sechtzgistem
                <cei:lb facs="#facs_26_l_43" n="N022"/>Jare
@@ -3287,25 +3261,25 @@
             </ab>
             <pb facs="#facs_33" n="33" xml:id="img_0033"/>
             <ab facs="#facs_33_r_2">
-               <cei:lb facs="#facs_33_l_22" n="N001"/>Wir Ulreich von gots genaden Abpt unser Vrawn Gotzhaws ze Chotweig Und der gantz Convent gemain doselbes Vergehen offenbar mit dem brief [und tun
-               <cei:lb facs="#facs_33_l_23" n="N002"/>chunt [allen Lewten gegenwurtigen und chumftigen Daz wir unsers rechten aygens unsern Hof gelegen ze Pirche indem darffe Oben an dem art [gegen awarn
-               <cei:lb facs="#facs_33_l_24" n="N003"/>werst Den wir gechawft [haben von vrawn Katrein Pilgreims des Cherspekchen witiben dem got gnad Und von Stephann [und Hansen den Cherspekchen iren [Sunen
-               <cei:lb facs="#facs_33_l_25" n="N004"/>Und von vrawn Christein Wolfharts dez waser [witiben dem got genad Und von vrawn Annen Niclas dez Hornpekchen hawsvrawn von Tytmarstorf [der [vorgenanten
-               <cei:lb facs="#facs_33_l_26" n="N005"/>vrawn Katrein tochter [und von [allen iren [miteriben Und auch als der Chawfbrief sagt den wir von in doruber [haben Dovon mon uns und unserm Goczhaws
-               <cei:lb facs="#facs_33_l_27" n="N006"/>alle Jar dint ze purchrecht von dem [egenanten Hof fumftzehen [wynner [phening an sand Merten tag Den vorgnanten Hof ze Pirche mit [allen den Eren [rechten
-               <cei:lb facs="#facs_33_l_28" n="N007"/>und nutzen di dorzue gehorent ze velde [und ze dorffe Gestift oder ungestift versucht oder [unversucht wie so daz genant ist Haben wir Recht und [redleichen
-               <cei:lb facs="#facs_33_l_29" n="N008"/>ze Chawffen [geben unserm [getrewn Hainreichen dem Bentlain von Awarn di zeit unser Amptman und vrawn Elzbeten [seiner hawsvrawn und [allen iren [Erben
-               <cei:lb facs="#facs_33_l_30" n="N009"/>umb Sechs Und Virczik phunt [gemainer [wynner [phening der wir gantz und gar gericht und [gewert sein zu [rechter zeit und zu rechten taegen Also beschay-
-               <cei:lb facs="#facs_33_l_31" n="N010"/>denleich Daz si den [egenanten Hof ze Pirche mit aller [zuegehorung in nutz [und ingewer inne [sullen [haben und nutzen und niezzen als [purcherr recht ist [und des
-               <cei:lb facs="#facs_33_l_32" n="N011"/>Landez recht in [Osterreich Und mugen auch furbaz [allen iren frumen domit schaffen wie in und iren [Erben daz aller pest fugt Mit versetzen mit verchawffen
-               <cei:lb facs="#facs_33_l_33" n="N012"/>schaffen machen und wol [geben wem si wellent Aber nicht ainem Edeln man Nur ainem pawrn der uns und [unserm Gotzhaws fugleich ist zu ainem holden
-               <cei:lb facs="#facs_33_l_34" n="N013"/>Wann aber daz ist daz der egenant hof ze Pirche verchauft wirt So schol mon uns und unserm Gotzhaws zwen und dreizzig [wynner [pfening ze ablait [geben [und
-               <cei:lb facs="#facs_33_l_35" n="N014"/>ze anlait alsvil und nicht mer Ez schol auch der vorgnant Hainreich der Bentel und sein [Erben Oder wer den [egenanten Hof nach in besitzet Uns [und [unserm
-               <cei:lb facs="#facs_33_l_36" n="N015"/>Gotzhaws wartunt sein mit aller vadrung recht als ein[anderer der dez Gotzhaws [behawster hold ist Wir sein auch des egenanten Hofs ze Piriche [und waz
-               <cei:lb facs="#facs_33_l_37" n="N016"/>dar zue [gehort Hainreichs des Bentleins und [seiner [Erben Recht scherm und gewern fur all ansprach als purchrechts recht ist und des Landes recht
-               <cei:lb facs="#facs_33_l_38" n="N017"/>in Osterreich Waer aber daz in dor an icht abgieng mit recht daz [sullen wir in gantz und gar auzrichten als [purcherr recht ist und des Landes recht [und
-               <cei:lb facs="#facs_33_l_39" n="N018"/>gewonhait in [Osterreich Und daz in daz furbaz also stet und unczerbrochen beleib Dar uber [geben wir in den Brief versigilten mit unsern bayden An-
-               <cei:lb facs="#facs_33_l_40" n="N019"/>hangunden Insigiln Der Prief ist [geben Nach Christi gepurd Uber drewtzehen Hundert Jar dornach in dem Acht und Sibentzkistem jare an dem
+               <cei:lb facs="#facs_33_l_22" n="N001"/>Wir Ulreich von gots genaden Abpt unser Vrawn Gotzhaws ze Chotweig Und der gantz Convent gemain doselbes Vergehen offenbar mit dem brief und tun
+               <cei:lb facs="#facs_33_l_23" n="N002"/>chunt allen Lewten gegenwurtigen und chumftigen Daz wir unsers rechten aygens unsern Hof gelegen ze Pirche indem darffe Oben an dem art gegen awarn
+               <cei:lb facs="#facs_33_l_24" n="N003"/>werst Den wir gechawft haben von vrawn Katrein Pilgreims des Cherspekchen witiben dem got gnad Und von Stephann und Hansen den Cherspekchen iren Sunen
+               <cei:lb facs="#facs_33_l_25" n="N004"/>Und von vrawn Christein Wolfharts dez waser witiben dem got genad Und von vrawn Annen Niclas dez Hornpekchen hawsvrawn von Tytmarstorf der vorgenanten
+               <cei:lb facs="#facs_33_l_26" n="N005"/>vrawn Katrein tochter und von allen iren miteriben Und auch als der Chawfbrief sagt den wir von in doruber haben Dovon mon uns und unserm Goczhaws
+               <cei:lb facs="#facs_33_l_27" n="N006"/>alle Jar dint ze purchrecht von dem egenanten Hof fumftzehen wynner phening an sand Merten tag Den vorgnanten Hof ze Pirche mit allen den Eren rechten
+               <cei:lb facs="#facs_33_l_28" n="N007"/>und nutzen di dorzue gehorent ze velde und ze dorffe Gestift oder ungestift versucht oder unversucht wie so daz genant ist Haben wir Recht und redleichen
+               <cei:lb facs="#facs_33_l_29" n="N008"/>ze Chawffen geben unserm getrewn Hainreichen dem Bentlain von Awarn di zeit unser Amptman und vrawn Elzbeten seiner hawsvrawn und allen iren Erben
+               <cei:lb facs="#facs_33_l_30" n="N009"/>umb Sechs Und Virczik phunt gemainer wynner phening der wir gantz und gar gericht und gewert sein zu rechter zeit und zu rechten taegen Also beschay-
+               <cei:lb facs="#facs_33_l_31" n="N010"/>denleich Daz si den egenanten Hof ze Pirche mit aller zuegehorung in nutz und ingewer inne sullen haben und nutzen und niezzen als purcherr recht ist und des
+               <cei:lb facs="#facs_33_l_32" n="N011"/>Landez recht in Osterreich Und mugen auch furbaz allen iren frumen domit schaffen wie in und iren Erben daz aller pest fugt Mit versetzen mit verchawffen
+               <cei:lb facs="#facs_33_l_33" n="N012"/>schaffen machen und wol geben wem si wellent Aber nicht ainem Edeln man Nur ainem pawrn der uns und unserm Gotzhaws fugleich ist zu ainem holden
+               <cei:lb facs="#facs_33_l_34" n="N013"/>Wann aber daz ist daz der egenant hof ze Pirche verchauft wirt So schol mon uns und unserm Gotzhaws zwen und dreizzig wynner pfening ze ablait geben und
+               <cei:lb facs="#facs_33_l_35" n="N014"/>ze anlait alsvil und nicht mer Ez schol auch der vorgnant Hainreich der Bentel und sein Erben Oder wer den egenanten Hof nach in besitzet Uns und unserm
+               <cei:lb facs="#facs_33_l_36" n="N015"/>Gotzhaws wartunt sein mit aller vadrung recht als einanderer der dez Gotzhaws behawster hold ist Wir sein auch des egenanten Hofs ze Piriche und waz
+               <cei:lb facs="#facs_33_l_37" n="N016"/>dar zue gehort Hainreichs des Bentleins und seiner Erben Recht scherm und gewern fur all ansprach als purchrechts recht ist und des Landes recht
+               <cei:lb facs="#facs_33_l_38" n="N017"/>in Osterreich Waer aber daz in dor an icht abgieng mit recht daz sullen wir in gantz und gar auzrichten als purcherr recht ist und des Landes recht und
+               <cei:lb facs="#facs_33_l_39" n="N018"/>gewonhait in Osterreich Und daz in daz furbaz also stet und unczerbrochen beleib Dar uber geben wir in den Brief versigilten mit unsern bayden An-
+               <cei:lb facs="#facs_33_l_40" n="N019"/>hangunden Insigiln Der Prief ist geben Nach Christi gepurd Uber drewtzehen Hundert Jar dornach in dem Acht und Sibentzkistem jare an dem
                <cei:lb facs="#facs_33_l_41" n="N020"/>heyligen Prehem Tag
             </ab>
             <pb facs="#facs_34" n="34" xml:id="img_0034"/>
@@ -3344,22 +3318,22 @@
             <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             <ab facs="#facs_38_r_3">
                <cei:lb facs="#facs_38_l_11" n="N001"/>Wir Fridreich von Gotts genaden Abtt dacz dem Chotweig und ich Jorig der Grenel und alle meine Erben vergechen offenleich
-               <cei:lb facs="#facs_38_l_13" n="N002"/>mit dem brief das wir [unverschaidenleich gelten sullen Chunraten und Wolfgangen geprudern den Potigern und iren Erben
-               <cei:lb facs="#facs_38_l_15" n="N003"/>zwai und dreissig phunt wienner phening der wir si unverczogenleich richten und weren sullen ansand Johanns tag ze [sunnbenten
+               <cei:lb facs="#facs_38_l_13" n="N002"/>mit dem brief das wir unverschaidenleich gelten sullen Chunraten und Wolfgangen geprudern den Potigern und iren Erben
+               <cei:lb facs="#facs_38_l_15" n="N003"/>zwai und dreissig phunt wienner phening der wir si unverczogenleich richten und weren sullen ansand Johanns tag ze sunnbenten
                <cei:lb facs="#facs_38_l_17" n="N004"/>der schirist chumpt Tun wir des nicht welchen si denn under uns mont und vodernt der schol auf den andern nicht vangern sunder
                <cei:lb facs="#facs_38_l_19" n="N005"/>er schol einen erbern chnecht selbander mit zwain pherten des nechsten tags dornach ze Wienn in ain erber Gasthaws senden
-               <cei:lb facs="#facs_38_l_20" n="N006"/>wo si uns hin zaigent und sullen die da inneligen und laisten als inneligens und laistens recht ist und da nicht [auschomen
-               <cei:lb facs="#facs_38_l_27" n="N007"/>es sein denn die [vorgenant gepruder Chunrat und Wolfgang die Potinger und ir Erben der [vorgenant zwaier und dreissig [phunt [phening
-               <cei:lb facs="#facs_38_l_28" n="N008"/>gancz und gar gewert Wer [awer das wir In die laistung verczugen oder solang innelegen und laistaten das si des verdruzz swas
+               <cei:lb facs="#facs_38_l_20" n="N006"/>wo si uns hin zaigent und sullen die da inneligen und laisten als inneligens und laistens recht ist und da nicht auschomen
+               <cei:lb facs="#facs_38_l_27" n="N007"/>es sein denn die vorgenant gepruder Chunrat und Wolfgang die Potinger und ir Erben der vorgenant zwaier und dreissig phunt phening
+               <cei:lb facs="#facs_38_l_28" n="N008"/>gancz und gar gewert Wer awer das wir In die laistung verczugen oder solang innelegen und laistaten das si des verdruzz swas
                <cei:lb facs="#facs_38_l_29" n="N009"/>si denn derselben phening furbas schaden nement ze kristen und ze Juden oder wie derschad genant ist das ir ainer bey
                <cei:lb facs="#facs_38_l_30" n="N010"/>seinen trewn ungesworen gesprechen mag denselben schaden mitsambt dem hawbtgut sullen wir In genczleich ablegen
                <cei:lb facs="#facs_38_l_31" n="N011"/>und widercheren das luben wir In zelaisten mit unsern trewn angeverd Si sullen auch hawbtgut und schaden haben auf
                <cei:lb facs="#facs_38_l_32" n="N012"/>uns und auf allem unserm gut das wir haben indem lannde ze Osterreich oder wo wir es haben davon In der landes-
                <cei:lb facs="#facs_38_l_33" n="N013"/>furst oder wer seinen gewalt hat an alles furbot und an alle chlag und an alles Geistleichs und weltleichs gericht
-               <cei:lb facs="#facs_38_l_34" n="N014"/>phannt antburten sol wo si drauf zaigent wenn si des noch dem [obgenanten tag nicht lenger enperen wellent alsver
+               <cei:lb facs="#facs_38_l_34" n="N014"/>phannt antburten sol wo si drauf zaigent wenn si des noch dem obgenanten tag nicht lenger enperen wellent alsver
                <cei:lb facs="#facs_38_l_35" n="N015"/>das si des vorgenanten irs gelts hawbtguts und schadens gancz und gar davon verricht und gewert werden wir sein lebentig
-               <cei:lb facs="#facs_38_l_36" n="N016"/>oder tod Und doruber so gebn wir In den brief zeainem waren urchund dersach versigilten mit unsers [obgenanten Abbt
-               <cei:lb facs="#facs_38_l_37" n="N017"/>Fridreichs vom Chotweig und mein [obgenanten Jorgens des Greneleins angehangen insigiln Und mit Otten insigel des
+               <cei:lb facs="#facs_38_l_36" n="N016"/>oder tod Und doruber so gebn wir In den brief zeainem waren urchund dersach versigilten mit unsers obgenanten Abbt
+               <cei:lb facs="#facs_38_l_37" n="N017"/>Fridreichs vom Chotweig und mein obgenanten Jorgens des Greneleins angehangen insigiln Und mit Otten insigel des
                <cei:lb facs="#facs_38_l_38" n="N018"/>wysers der dersach geczewg ist mit seinem angehangem insigil Im anschaden Der brief ist geben ze Wienn noch
                <cei:lb facs="#facs_38_l_39" n="N019"/>kristi gepurd dreuczenhundert Jar dornach indem vierundnewnczigistem Jare des nechsten Eritags vor Mittervasten
             </ab>
@@ -3370,66 +3344,66 @@
             <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             <ab facs="#facs_39_r_2">
                <cei:lb facs="#facs_39_l_30" n="N001"/><cei:damage>...</cei:damage>wses ze Chotweyg Und der Convent gemaynchleich daselbens Ver-
-               <cei:lb facs="#facs_39_l_31" n="N002"/><cei:damage>...</cei:damage>ent offenleich mit dem brief Das wir schuldig sein und gelten [sullen
-               <cei:lb facs="#facs_39_l_32" n="N003"/><cei:damage>...</cei:damage>[Erben hundert phunt [wienner [phenning Der wir Si oder wer den
+               <cei:lb facs="#facs_39_l_31" n="N002"/><cei:damage>...</cei:damage>ent offenleich mit dem brief Das wir schuldig sein und gelten sullen
+               <cei:lb facs="#facs_39_l_32" n="N003"/><cei:damage>...</cei:damage>Erben hundert phunt wienner phenning Der wir Si oder wer den
                <cei:lb facs="#facs_39_l_33" n="N004"/><cei:damage>...</cei:damage>mit mont u<cei:damage>nvercz</cei:damage>ogenleich Richten und wern sullen an sand Johanns
                <cei:lb facs="#facs_39_l_35" n="N005"/><cei:damage>...</cei:damage>icht Wenn si uns dem monent und vodernt So sullen wir zwen
                <cei:lb facs="#facs_39_l_36" n="N006"/><cei:damage>...</cei:damage>herten des nachsten tags darnach ze Chrems inerber Gasthaws
                <cei:lb facs="#facs_39_l_37" n="N007"/><cei:damage>...</cei:damage>da ynnligen und laisten als innligens und laistens recht ist Und
                <cei:lb facs="#facs_39_l_38" n="N008"/><cei:damage>...</cei:damage>enant Ott der Syednikcher und all sein Erben oder wer den
-               <cei:lb facs="#facs_39_l_39" n="N009"/><cei:damage>...</cei:damage> damit mont der egenanten hundert phunt [phenning gancz und
+               <cei:lb facs="#facs_39_l_39" n="N009"/><cei:damage>...</cei:damage> damit mont der egenanten hundert phunt phenning gancz und
                <cei:lb facs="#facs_39_l_40" n="N010"/><cei:damage>...</cei:damage>zugen und nicht laistieten oder ob wir In solang laistieten das
                <cei:lb facs="#facs_39_l_41" n="N011"/><cei:damage>...</cei:damage>ng nach dem egenanten tag schaden nement dacz christen oder
                <cei:lb facs="#facs_39_l_42" n="N012"/><cei:damage>...</cei:damage> ainer bey seinen trewn ungesworn gesprechen mag der den brief
                <cei:lb facs="#facs_39_l_43" n="N013"/><cei:damage>...</cei:damage>tgut Sullen wir In genczleich ablegen und widerchern das luben
                <cei:lb facs="#facs_39_l_44" n="N014"/><cei:damage>...</cei:damage>verd Si sullen auch haubtgut und schaden haben dacz uns und un-
                <cei:lb facs="#facs_39_l_45" n="N015"/><cei:damage>...</cei:damage> zu dem vorgenan unserm Gotshaws ze Chotweyg gehoret
-               <cei:lb facs="#facs_39_l_46" n="N016"/><cei:damage>...</cei:damage> In unser herren die herczogen in Osterreich oder wer [Iren ge-
+               <cei:lb facs="#facs_39_l_46" n="N016"/><cei:damage>...</cei:damage> In unser herren die herczogen in Osterreich oder wer Iren ge-
                <cei:lb facs="#facs_39_l_47" n="N017"/><cei:damage>...</cei:damage>urten sullen wo Si darauf zaigent wenn Si des nach dem obge-
-               <cei:lb facs="#facs_39_l_48" n="N018"/><cei:damage>...</cei:damage>snerre das Si des vorgenanten [ires <cei:damage>g</cei:damage>eltes haubtguts und schadens
+               <cei:lb facs="#facs_39_l_48" n="N018"/><cei:damage>...</cei:damage>snerre das Si des vorgenanten ires <cei:damage>g</cei:damage>eltes haubtguts und schadens
                <cei:lb facs="#facs_39_l_49" n="N019"/><cei:damage>...</cei:damage> gepresten Und daruber so geben <cei:damage>wir</cei:damage> fur uns und fur all unser
                <cei:lb facs="#facs_39_l_51" n="N020"/><cei:damage>...</cei:damage><cei:damage>ur</cei:damage>chund der sach Versigilten mit unserr obgenanten Abbt Fridreichen 
-               <cei:lb facs="#facs_39_l_52" n="N021"/><cei:damage>...</cei:damage>in Anhanngunden [insigilen Der brief ist geben nach christi gepurd
+               <cei:lb facs="#facs_39_l_52" n="N021"/><cei:damage>...</cei:damage>in Anhanngunden insigilen Der brief ist geben nach christi gepurd
                <cei:lb facs="#facs_39_l_53" n="N022"/><cei:damage>...</cei:damage>hs und Newnczgistem Jare des Eritags vor sand Gregorien tag
             </ab>
             <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             <ab facs="#facs_40_r">
-               <cei:lb facs="#facs_40_l" n="N001"/>ICH Mertt vom Aygem ConventsBrueder zue Gotweig vergich fur mich und all mein [eriben und tuen chund [offenleich mit dem Brief [allen [lawten [gegenburtigen und kunftigen
-               <cei:lb facs="#facs_40_l_1" n="N002"/>die den Brief sehent lesent oder hornt lesen Das ich mit gunst und guetleichem willen des [Erwirdigen und [Geistleichen Meins [Genadigen [herren [heren Johannsen Abbpt
-               <cei:lb facs="#facs_40_l_2" n="N003"/>unser frawn Gotshaws zue Gotweig und nach Rat und gefallen meiner [nagsten und [pessten frewndt zue der zeit da ich das mit Recht wol getuen mocht Hab Ich ob-
-               <cei:lb facs="#facs_40_l_3" n="N004"/>genanter Brueder Mertt [angesechen bruederleichew trew und fuedrung und dienst So mir mein lieber Brueder Achacz Haymel vom Aygen encher getan hat und
-               <cei:lb facs="#facs_40_l_4" n="N005"/>auch hinfur wol tuen mag und schol und darumb hab ich Im nach Erberr lawt weysung und mit [Purkherren [hannden des [vorgenanten meins [herren Abpt Johannsen zue
-               <cei:lb facs="#facs_40_l_5" n="N006"/>Gotweig [aufgegeben und gib Im auch auf mit dem [gegenburtigen Brief alle meinew Vaterleichew und Mueterleichew erib die mich von In angeerbet habent Es sein
-               <cei:lb facs="#facs_40_l_6" n="N007"/>hawser Mwl wysem [Pawmbgartten [weingartten Akker Chrawtgartten Purkrecht dienst oder zehent wie das genant oder wo das [gelegen ist zue veld zue dorff ver-
-               <cei:lb facs="#facs_40_l_7" n="N008"/>suechts und unversuechts nichts ausgenomen noch hin dan gesaczt Also [beschaidenleichen das mir der obgenant mein Brueder Achacz und sein [eriben von [derselben
-               <cei:lb facs="#facs_40_l_8" n="N009"/>erib [wegen alle Jar Jarleichen dienen und raichen schol mein lebtag Indas kloster gen Gotweig zwai [phunnt wienner [phenning zue den vier [Quottemberen Im Jare
-               <cei:lb facs="#facs_40_l_9" n="N010"/>zue yeder Quottember ain halb phunnt [phenning an alles [verczichen Taten sy des nicht So verfelt sich wandel darauf als auf ander Purkrecht Indem lanndt
+               <cei:lb facs="#facs_40_l" n="N001"/>ICH Mertt vom Aygem ConventsBrueder zue Gotweig vergich fur mich und all mein eriben und tuen chund offenleich mit dem Brief allen lawten gegenburtigen und kunftigen
+               <cei:lb facs="#facs_40_l_1" n="N002"/>die den Brief sehent lesent oder hornt lesen Das ich mit gunst und guetleichem willen des Erwirdigen und Geistleichen Meins Genadigen herren heren Johannsen Abbpt
+               <cei:lb facs="#facs_40_l_2" n="N003"/>unser frawn Gotshaws zue Gotweig und nach Rat und gefallen meiner nagsten und pessten frewndt zue der zeit da ich das mit Recht wol getuen mocht Hab Ich ob-
+               <cei:lb facs="#facs_40_l_3" n="N004"/>genanter Brueder Mertt angesechen bruederleichew trew und fuedrung und dienst So mir mein lieber Brueder Achacz Haymel vom Aygen encher getan hat und
+               <cei:lb facs="#facs_40_l_4" n="N005"/>auch hinfur wol tuen mag und schol und darumb hab ich Im nach Erberr lawt weysung und mit Purkherren hannden des vorgenanten meins herren Abpt Johannsen zue
+               <cei:lb facs="#facs_40_l_5" n="N006"/>Gotweig aufgegeben und gib Im auch auf mit dem gegenburtigen Brief alle meinew Vaterleichew und Mueterleichew erib die mich von In angeerbet habent Es sein
+               <cei:lb facs="#facs_40_l_6" n="N007"/>hawser Mwl wysem Pawmbgartten weingartten Akker Chrawtgartten Purkrecht dienst oder zehent wie das genant oder wo das gelegen ist zue veld zue dorff ver-
+               <cei:lb facs="#facs_40_l_7" n="N008"/>suechts und unversuechts nichts ausgenomen noch hin dan gesaczt Also beschaidenleichen das mir der obgenant mein Brueder Achacz und sein eriben von derselben
+               <cei:lb facs="#facs_40_l_8" n="N009"/>erib wegen alle Jar Jarleichen dienen und raichen schol mein lebtag Indas kloster gen Gotweig zwai phunnt wienner phenning zue den vier Quottemberen Im Jare
+               <cei:lb facs="#facs_40_l_9" n="N010"/>zue yeder Quottember ain halb phunnt phenning an alles verczichen Taten sy des nicht So verfelt sich wandel darauf als auf ander Purkrecht Indem lanndt
                <cei:lb facs="#facs_40_l_10" n="N011"/>ze Osterreich Und wann Ich obgenanter Brueder Mertt mit dem tod abgee da got lang vor sey dannen so ist der egenant mein Brueder Achacz und sein eriben
-               <cei:lb facs="#facs_40_l_11" n="N012"/>der [obgenanten zwaier [phunnt Jarleicher dienst gancz ledig und los Und mag er nuen furbas mit [denselben [eriben [allen seinen frumb und Nucz damit [geschaffen [verseczen
-               <cei:lb facs="#facs_40_l_12" n="N013"/>[verchauffen [geben machen schaffen wem er wil an allen chrieg und Irrung wie Im das wol fuegt und chumbt doch also das ich der vorgenanten zwaier [phunnt
-               <cei:lb facs="#facs_40_l_13" n="N014"/>Jarleicher gullt mein lebtag alle Jar fuederleich beczalt werd von [derselben erib [wegen Auch ist zue[merkchen von der [nyderen Mul [wegen [gelegen auf dem Aygen
-               <cei:lb facs="#facs_40_l_14" n="N015"/>davon man yeczd Jarleich dient [unserer Mwemlein Junkfrawn Petternesen Indem ffrawn kloster zue Gotweig Jarleich zwai [phunnt [phenning Ir lebtag Wenn dieselb
-               <cei:lb facs="#facs_40_l_15" n="N016"/>Junkfraw mit dem tod abget da got lang vor sey dannen so schol mir mein Brueder Achacz oder sein [eriben die dew Mul von seinen [wegen Innehabent Jarleich dienen
-               <cei:lb facs="#facs_40_l_16" n="N017"/>von [derselben Mul [wegen Ain halb phunnt [phenning wienner an Sand [Georgen tag und an Sand Michels tag zue yedem tag Sechczigk [phenning und nicht mer Und
+               <cei:lb facs="#facs_40_l_11" n="N012"/>der obgenanten zwaier phunnt Jarleicher dienst gancz ledig und los Und mag er nuen furbas mit denselben eriben allen seinen frumb und Nucz damit geschaffen verseczen
+               <cei:lb facs="#facs_40_l_12" n="N013"/>verchauffen geben machen schaffen wem er wil an allen chrieg und Irrung wie Im das wol fuegt und chumbt doch also das ich der vorgenanten zwaier phunnt
+               <cei:lb facs="#facs_40_l_13" n="N014"/>Jarleicher gullt mein lebtag alle Jar fuederleich beczalt werd von derselben erib wegen Auch ist zuemerkchen von der nyderen Mul wegen gelegen auf dem Aygen
+               <cei:lb facs="#facs_40_l_14" n="N015"/>davon man yeczd Jarleich dient unserer Mwemlein Junkfrawn Petternesen Indem ffrawn kloster zue Gotweig Jarleich zwai phunnt phenning Ir lebtag Wenn dieselb
+               <cei:lb facs="#facs_40_l_15" n="N016"/>Junkfraw mit dem tod abget da got lang vor sey dannen so schol mir mein Brueder Achacz oder sein eriben die dew Mul von seinen wegen Innehabent Jarleich dienen
+               <cei:lb facs="#facs_40_l_16" n="N017"/>von derselben Mul wegen Ain halb phunnt phenning wienner an Sand Georgen tag und an Sand Michels tag zue yedem tag Sechczigk phenning und nicht mer Und
                <cei:lb facs="#facs_40_l_17" n="N018"/>mag ich dasselb halbphunnt gelltes verseczen verchauffen geben Schaffen wem Ich wil an alle widerRed Und der sachen zue Urchund so gib ich obgenanter
-               <cei:lb facs="#facs_40_l_18" n="N019"/>Brueder Mertt dem [vorgenanten meinem Brueder Achaczen und seinen [eriben den offen Brief [BeSigelten mit des [vorgenanten [Purkherren [herren [Johannsen
-               <cei:lb facs="#facs_40_l_19" n="N020"/>Abbpt zue Gotweig der [derselben erib und gueter Maist tail Purkherr ist Anhangundem InSigel und wann Ich selb nicht Insigel hab So hab ich [gepeten
-               <cei:lb facs="#facs_40_l_20" n="N021"/>dye [Erberen Hannsen den ffral und [Gebharten den Grefel Richter zue ffurt das sy der sachen geczeug sindt mit [Iren anhangunden [Insigelen darunder Ich
-               <cei:lb facs="#facs_40_l_21" n="N022"/>mich verpindt alles das stat zue [haben das hye bevor an dem Brief [geschriben ist Der [geben ist nach christi gepurd [vierczehenhundert Jar und darnach In
-               <cei:lb facs="#facs_40_l_23" n="N023"/>dem Ersten Jar an Sand Gregorien tag des heyligen lerer Inder [vassten
+               <cei:lb facs="#facs_40_l_18" n="N019"/>Brueder Mertt dem vorgenanten meinem Brueder Achaczen und seinen eriben den offen Brief BeSigelten mit des vorgenanten Purkherren herren Johannsen
+               <cei:lb facs="#facs_40_l_19" n="N020"/>Abbpt zue Gotweig der derselben erib und gueter Maist tail Purkherr ist Anhangundem InSigel und wann Ich selb nicht Insigel hab So hab ich gepeten
+               <cei:lb facs="#facs_40_l_20" n="N021"/>dye Erberen Hannsen den ffral und Gebharten den Grefel Richter zue ffurt das sy der sachen geczeug sindt mit Iren anhangunden Insigelen darunder Ich
+               <cei:lb facs="#facs_40_l_21" n="N022"/>mich verpindt alles das stat zue haben das hye bevor an dem Brief geschriben ist Der geben ist nach christi gepurd vierczehenhundert Jar und darnach In
+               <cei:lb facs="#facs_40_l_23" n="N023"/>dem Ersten Jar an Sand Gregorien tag des heyligen lerer Inder vassten
             </ab>
             <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             <ab facs="#facs_41_r">
                <cei:lb facs="#facs_41_l" n="N001"/>Wir Peter von Gots genaden Abpt des Goczhaus ze Chotweig Und wir der gancz Conventt gemainkleich daselbs wir vergehen fur u<cei:damage>...</cei:damage>
                <cei:lb facs="#facs_41_l_1" n="N002"/>komen daselbs und tun chund offenleich mit dem gegenburtigen brief allen lewten dew In sehent oder horent lesen dew nu lebent oder he<cei:damage>rent</cei:damage> <cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_41_l_2" n="N003"/>Das wir [unverschaidenleich gelten sullen Symann dem Juden Smerleins sun ze krembs seiner hawsfrawn und ir Paider erben dritthalb h<cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_41_l_3" n="N004"/>nner [phening auf die nagsten Ostern dew schierist chunftig werdent dew si uns durich merkleicher notdurft unsers obgenanten Goczhau<cei:damage>s</cei:damage> <cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_41_l_4" n="N005"/>Und gestent Si lenger So get darnach all wochen auf ain igleich phunt vier wienner [phening ze schaden Twn wir des nicht wann uns da<cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_41_l_5" n="N006"/>fur den egenanten tag nicht lenger peyten wellent und uns vodernt und monet zelaisten So sullen wir In zestett ainen [Erbern knecht selb an<cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_41_l_2" n="N003"/>Das wir unverschaidenleich gelten sullen Symann dem Juden Smerleins sun ze krembs seiner hawsfrawn und ir Paider erben dritthalb h<cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_41_l_3" n="N004"/>nner phening auf die nagsten Ostern dew schierist chunftig werdent dew si uns durich merkleicher notdurft unsers obgenanten Goczhau<cei:damage>s</cei:damage> <cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_41_l_4" n="N005"/>Und gestent Si lenger So get darnach all wochen auf ain igleich phunt vier wienner phening ze schaden Twn wir des nicht wann uns da<cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_41_l_5" n="N006"/>fur den egenanten tag nicht lenger peyten wellent und uns vodernt und monet zelaisten So sullen wir In zestett ainen Erbern knecht selb an<cei:damage>...</cei:damage>
                <cei:lb facs="#facs_41_l_6" n="N007"/>den schikchen zelaisten gein krembs In ain Erberr offens Gasthaus wo Si uns hin zaigent Und sullen darinne ligen und laisten als Innligenn<cei:damage>...</cei:damage>
                <cei:lb facs="#facs_41_l_7" n="N008"/>in dem lannd ze Osterreich Und auch danicht auschomen Es sein ee die obgenanten Juden irs gelts haubtguet und schaden genczleich gericht und <cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_41_l_8" n="N009"/>dannach der schad wir laisten oder nicht Und sullen auch das haben auf all [unser und des obgenanten unsers Goczhaus hab lewt und Gueter <cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_41_l_9" n="N010"/>ben wo das sey und wie dew genant sind Es sein erib aigen purkrecht dinsts zins zehent oder [phening gult varund und likkund nichts ausg<cei:damage>enomen</cei:damage> <cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_41_l_8" n="N009"/>dannach der schad wir laisten oder nicht Und sullen auch das haben auf all unser und des obgenanten unsers Goczhaus hab lewt und Gueter <cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_41_l_9" n="N010"/>ben wo das sey und wie dew genant sind Es sein erib aigen purkrecht dinsts zins zehent oder phening gult varund und likkund nichts ausg<cei:damage>enomen</cei:damage> <cei:damage>...</cei:damage>
                <cei:lb facs="#facs_41_l_10" n="N011"/>auf choment und zaigent davon sew weren sol wer der fursten gewalt hat In Osterreich an alles werechten oder sust ain igleich herr Richte<cei:damage>r</cei:damage> <cei:damage>...</cei:damage>
                <cei:lb facs="#facs_41_l_11" n="N012"/>man inder gepiet Si uns unser hab unserr lewt <cei:damage>und g</cei:damage>ueter anchoment oder darauf zaigent an alles werechten Geistleichs und weltlei<cei:damage>...</cei:damage>
                <cei:lb facs="#facs_41_l_12" n="N013"/>obgenanten Juden irs gelts haubtguet und schaden genczleich beczalt sein ob wir sew von unsselber nicht enwertten Das ist alles mit unserm g<cei:damage>...</cei:damage>
@@ -3449,49 +3423,49 @@
             <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             <pb facs="#facs_43" n="43" xml:id="img_0043"/>
             <ab facs="#facs_43_r">
-               <cei:lb facs="#facs_43_l" n="N001"/>Wir Peter von gots gnaden Abbt [unser frawn gotshaus ze kottweig Und wir der gantz Convent gemainchlich daselbs vergehen offen-
-               <cei:lb facs="#facs_43_l_1" n="N002"/>lich mit dem brief allen den er fur chumpt das wir mit wolbedachtem muet mit [gesampter und ainmutichlicher bedechtnuzz zu
-               <cei:lb facs="#facs_43_l_2" n="N003"/>der zeit do wir das mit recht wol getuen mochten Recht und redleich verchauft haben [unser rechts freis aigen unsern tail des purch-
+               <cei:lb facs="#facs_43_l" n="N001"/>Wir Peter von gots gnaden Abbt unser frawn gotshaus ze kottweig Und wir der gantz Convent gemainchlich daselbs vergehen offen-
+               <cei:lb facs="#facs_43_l_1" n="N002"/>lich mit dem brief allen den er fur chumpt das wir mit wolbedachtem muet mit gesampter und ainmutichlicher bedechtnuzz zu
+               <cei:lb facs="#facs_43_l_2" n="N003"/>der zeit do wir das mit recht wol getuen mochten Recht und redleich verchauft haben unser rechts freis aigen unsern tail des purch-
                <cei:lb facs="#facs_43_l_3" n="N004"/>stals zu Ofenpach mit seiner zuhorung und ist pechleins unsers Amptmans dem got gnad gegentail gewesen Und als wir das
-               <cei:lb facs="#facs_43_l_4" n="N005"/>chauft haben von Hainreichen dem [Weichselpekchen mit allen den [rechten eren und nuczen die darczu gehorent mit paw mit wis-
-               <cei:lb facs="#facs_43_l_5" n="N006"/>mad mit holcz mit waid mit [paungerten nichts ausgenomen nach hindan gesaczt es sey gestift oder ungestift versuecht oder un-
+               <cei:lb facs="#facs_43_l_4" n="N005"/>chauft haben von Hainreichen dem Weichselpekchen mit allen den rechten eren und nuczen die darczu gehorent mit paw mit wis-
+               <cei:lb facs="#facs_43_l_5" n="N006"/>mad mit holcz mit waid mit paungerten nichts ausgenomen nach hindan gesaczt es sey gestift oder ungestift versuecht oder un-
                <cei:lb facs="#facs_43_l_6" n="N007"/>versuecht als wir das In freis aigens gewer herpracht und Inn gehabt haben Also haben wir das verchauft und zechauffen
-               <cei:lb facs="#facs_43_l_7" n="N008"/>geben zu ainem [rechten purchrecht Hannsen dem Heperger [Margreten seiner hausfrawn und Ir baider [erben umb [hundert phunt
-               <cei:lb facs="#facs_43_l_8" n="N009"/>beraiter [wienner [phenning der wir von In zu [rechten tegen an all scheden gancz gericht und bezalt sein Also In der weis das Sy oder
-               <cei:lb facs="#facs_43_l_9" n="N010"/>Ir erben oder wer den Hof besiczt oder Inn hat hin fur [ewichleichen In unser Oblay gen kottweig raichen und dienen sullen sechs
+               <cei:lb facs="#facs_43_l_7" n="N008"/>geben zu ainem rechten purchrecht Hannsen dem Heperger Margreten seiner hausfrawn und Ir baider erben umb hundert phunt
+               <cei:lb facs="#facs_43_l_8" n="N009"/>beraiter wienner phenning der wir von In zu rechten tegen an all scheden gancz gericht und bezalt sein Also In der weis das Sy oder
+               <cei:lb facs="#facs_43_l_9" n="N010"/>Ir erben oder wer den Hof besiczt oder Inn hat hin fur ewichleichen In unser Oblay gen kottweig raichen und dienen sullen sechs
                <cei:lb facs="#facs_43_l_10" n="N011"/>Schilling phenning ze purchrecht alle Jar Jerleich zu zwain tegen drey schilling phenning zu phingsten und drey schilling phen-
-               <cei:lb facs="#facs_43_l_11" n="N012"/>ning zu sand Michelstag und darczu alle andreu [fodrung so wir daselbs von [andern unsern holden haben und [mugen auch [allen
-               <cei:lb facs="#facs_43_l_12" n="N013"/>Irn frumen damit schaffen mit [besitzen mit verchauffen schaffen [machen und [geben wem sy [wellent an alleu [unser widerred [und
-               <cei:lb facs="#facs_43_l_13" n="N014"/>Irrung und sein wir des Ir rechter scherm und gwer fur all ansprach als semleichs guts und purchrechts recht ist Indem lannd ze [Oster-
-               <cei:lb facs="#facs_43_l_14" n="N015"/>reich Gieng In awer mit recht daran icht ab oder chrieg anfel oder zuspruch daran [gewunnen von wem das wer das [sullen und
-               <cei:lb facs="#facs_43_l_15" n="N016"/>wellen wir In [ausrichten und richtig [machen Tett wir sein nicht was Sy dann des schaden [nement den Ir ains bei [seinen trewn
-               <cei:lb facs="#facs_43_l_16" n="N017"/>unberecht und [ungesworen [gesprechen mag den [selben [schaden [allen [sullen wir In [widercheren und [sullen Sy das [haben auf uns un-
-               <cei:lb facs="#facs_43_l_17" n="N018"/>[verschaidenleich und auf allen unsers gotshaus [gueter die wir [Inndert [haben In dem lannd ze [Osterreich oder wo wir die haben
-               <cei:lb facs="#facs_43_l_18" n="N019"/>wir sein lemptig oder tod wir offen auch wann der [egenant Hanns der Heperger sein hausfraw oder Ir [erben den egenanten Hof
-               <cei:lb facs="#facs_43_l_19" n="N020"/>verchauffen wellent so sullen Sy In ainem geleihen pawmann zechauffen [geben oder uns selber und nicht verrer Und [geben
-               <cei:lb facs="#facs_43_l_20" n="N021"/>des ze urchund wir In den bief [besigelten mit unsern [baiden [anhanngunden [Insigeln der brief ist [geben nach christi gepurd
-               <cei:lb facs="#facs_43_l_22" n="N022"/>[Virzehenhundert Jar und darnach in dem dritten Jare an unserfrawn tag zu der liechtmess
+               <cei:lb facs="#facs_43_l_11" n="N012"/>ning zu sand Michelstag und darczu alle andreu fodrung so wir daselbs von andern unsern holden haben und mugen auch allen
+               <cei:lb facs="#facs_43_l_12" n="N013"/>Irn frumen damit schaffen mit besitzen mit verchauffen schaffen machen und geben wem sy wellent an alleu unser widerred und
+               <cei:lb facs="#facs_43_l_13" n="N014"/>Irrung und sein wir des Ir rechter scherm und gwer fur all ansprach als semleichs guts und purchrechts recht ist Indem lannd ze Oster-
+               <cei:lb facs="#facs_43_l_14" n="N015"/>reich Gieng In awer mit recht daran icht ab oder chrieg anfel oder zuspruch daran gewunnen von wem das wer das sullen und
+               <cei:lb facs="#facs_43_l_15" n="N016"/>wellen wir In ausrichten und richtig machen Tett wir sein nicht was Sy dann des schaden nement den Ir ains bei seinen trewn
+               <cei:lb facs="#facs_43_l_16" n="N017"/>unberecht und ungesworen gesprechen mag den selben schaden allen sullen wir In widercheren und sullen Sy das haben auf uns un-
+               <cei:lb facs="#facs_43_l_17" n="N018"/>verschaidenleich und auf allen unsers gotshaus gueter die wir Inndert haben In dem lannd ze Osterreich oder wo wir die haben
+               <cei:lb facs="#facs_43_l_18" n="N019"/>wir sein lemptig oder tod wir offen auch wann der egenant Hanns der Heperger sein hausfraw oder Ir erben den egenanten Hof
+               <cei:lb facs="#facs_43_l_19" n="N020"/>verchauffen wellent so sullen Sy In ainem geleihen pawmann zechauffen geben oder uns selber und nicht verrer Und geben
+               <cei:lb facs="#facs_43_l_20" n="N021"/>des ze urchund wir In den bief besigelten mit unsern baiden anhanngunden Insigeln der brief ist geben nach christi gepurd
+               <cei:lb facs="#facs_43_l_22" n="N022"/>Virzehenhundert Jar und darnach in dem dritten Jare an unserfrawn tag zu der liechtmess
             </ab>
             <pb facs="#facs_44" n="44" xml:id="img_0044"/>
             <ab facs="#facs_44_r">
                <cei:lb facs="#facs_44_l" n="N001"/>Wir Peter von gotes genaden Abt ze kotweyg und der Convennt gemain daselbs Tun Kunt offenleich mit dem brief <cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_44_l_1" n="N002"/>wir schuldig worden sein und gelten sullen dem Erbern Pangretzen dem Hedersdorffer dieczeit unser hofmaister In [unserm haw<cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_44_l_2" n="N003"/>und seiner hawsfrawn frawn Elspeten und Ir baider erben Sibenczig phunt wienner [phening die si uns berait gelihen habe<cei:damage>n</cei:damage> <cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_44_l_3" n="N004"/>die wir zu unser und unsers gotzhaus notdurft entnomen haben der wir si [unvertzogenleich richten und wern sullen von <cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_44_l_1" n="N002"/>wir schuldig worden sein und gelten sullen dem Erbern Pangretzen dem Hedersdorffer dieczeit unser hofmaister In unserm haw<cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_44_l_2" n="N003"/>und seiner hawsfrawn frawn Elspeten und Ir baider erben Sibenczig phunt wienner phening die si uns berait gelihen habe<cei:damage>n</cei:damage> <cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_44_l_3" n="N004"/>die wir zu unser und unsers gotzhaus notdurft entnomen haben der wir si unvertzogenleich richten und wern sullen von <cei:damage>...</cei:damage>
                <cei:lb facs="#facs_44_l_4" n="N005"/>hewtigem tag als der brief geben ist uber ein Jar Auch haben wir Im die genad und beschaidenhait getan das wir Im In <cei:damage>...</cei:damage>
                <cei:lb facs="#facs_44_l_5" n="N006"/>vorgenantem unserm haws zu einem hofmaister unverchert haben sullen Und wenn aber das wer das wir In verchern u<cei:damage>...</cei:damage>
                <cei:lb facs="#facs_44_l_6" n="N007"/>lenger haben wolten das sullen wir Im drew Moneid vor ze wissen tun und sullen si denn In denselben drin Moneiden de<cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_44_l_7" n="N008"/>genanten Sibentzig phunt [phening unverczogenleich richten und wern Tun wir des nicht swas si denn derselben phe<cei:damage>ning</cei:damage> <cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_44_l_7" n="N008"/>genanten Sibentzig phunt phening unverczogenleich richten und wern Tun wir des nicht swas si denn derselben phe<cei:damage>ning</cei:damage> <cei:damage>...</cei:damage>
                <cei:lb facs="#facs_44_l_8" n="N009"/>furbas schaden nement wie der schad genant ist das Ir ains bey seinen trewn ungesworn gesprechen mag denselben schaden <cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_44_l_9" n="N010"/>dem haubtgut sullen wir In genczleich ablegen und widerchern das luben wir In ze laisten bey [unsern trewn an gever Si s<cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_44_l_10" n="N011"/>auch haubtguet und schaden hab datz uns und [unsern nachkomen [unverschaidenleich und auf allem dem guet das zu dem vorgen<cei:damage>anten</cei:damage> <cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_44_l_11" n="N012"/>[unserm Gotzhaws ze Kotweyg [gehoret wie das genant ist oder wo das gelegen ist davon In der landesfurst oder wer sein gw<cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_44_l_9" n="N010"/>dem haubtgut sullen wir In genczleich ablegen und widerchern das luben wir In ze laisten bey unsern trewn an gever Si s<cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_44_l_10" n="N011"/>auch haubtguet und schaden hab datz uns und unsern nachkomen unverschaidenleich und auf allem dem guet das zu dem vorgen<cei:damage>anten</cei:damage> <cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_44_l_11" n="N012"/>unserm Gotzhaws ze Kotweyg gehoret wie das genant ist oder wo das gelegen ist davon In der landesfurst oder wer sein gw<cei:damage>...</cei:damage>
                <cei:lb facs="#facs_44_l_12" n="N013"/>hat an als furbot und an alle chlag und als geistleichs und werltleichs gericht phannt antwurten sol wo sy darauf zai<cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_44_l_13" n="N014"/>wenn si des nach den [obgenanten tegen nicht lenger enpern wellent Soverr das si des [vorgenanten Irs gelts haubtguts und schade<cei:damage>n</cei:damage> <cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_44_l_13" n="N014"/>wenn si des nach den obgenanten tegen nicht lenger enpern wellent Soverr das si des vorgenanten Irs gelts haubtguts und schade<cei:damage>n</cei:damage> <cei:damage>...</cei:damage>
                <cei:lb facs="#facs_44_l_14" n="N015"/>gancz und gar davon verricht und gewert werden Und wer den brief mit Irem gutem willen Innhat und uns damit <cei:damage>...</cei:damage>
                <cei:lb facs="#facs_44_l_15" n="N016"/>dem sein wir alles des gepunden ze gelten und ze volfuren das vor an dem brief geschriben stet ze gleicher weys als In<cei:damage>...</cei:damage>
                <cei:lb facs="#facs_44_l_16" n="N017"/>Und daruber so geben wir fur uns und unser nachkomen In den brief zu einem warn Urchunt der sach versigelten <cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_44_l_18" n="N018"/>unsers [obgenanten Abt Petreins und des Convents gemain des [obgenanten gotzhaws ze Kotweyg baiden Angehangenn Insi<cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_44_l_18" n="N018"/>unsers obgenanten Abt Petreins und des Convents gemain des obgenanten gotzhaws ze Kotweyg baiden Angehangenn Insi<cei:damage>...</cei:damage>
                <cei:lb facs="#facs_44_l_19" n="N019"/>Der Geben ist nach Christi gepurd viertzehenhundert Jar darnach In dem dritten Jar des nechsten freytags na<cei:damage>ch</cei:damage> <cei:damage>...</cei:damage>
                <cei:lb facs="#facs_44_l_20" n="N020"/>Mittervasten
             </ab>
@@ -3499,72 +3473,72 @@
             <ab facs="#facs_45_r">
                <cei:lb facs="#facs_45_l" n="N001"/>Wir Peter von gotes gnaden Abptunser vrawn Goczhaws ze Kotweig Und wir der gancz Convent gemain da-
                <cei:lb facs="#facs_45_l_1" n="N002"/>selbes Wir veriehen und tun chunt offenleich mit dem brieff allen den erfur chumpt die nu lebendt und hernach chun-
-               <cei:lb facs="#facs_45_l_2" n="N003"/>ftig sind Das wir mit [veraintem muet und gutleihem willen ain awswechssel haben getan mit [Fridreihen dem
+               <cei:lb facs="#facs_45_l_2" n="N003"/>ftig sind Das wir mit veraintem muet und gutleihem willen ain awswechssel haben getan mit Fridreihen dem
                <cei:lb facs="#facs_45_l_3" n="N004"/>Schawinger und allen seinen erben Also das wir In geben haben unsers Rechten frein aigens Sechs
-               <cei:lb facs="#facs_45_l_4" n="N005"/>schilling [phening gelts gelegen dacz Weczmanstal am perig Inherczogenburger pharr do dieczeit auf [gesezzen
-               <cei:lb facs="#facs_45_l_5" n="N006"/>ist Ott dasselb gut dient jerleich die Egenanten Sechs schilling [phening an Sand Michels tage fur die
-               <cei:lb facs="#facs_45_l_6" n="N007"/>vorgenanten Sechs schilling [phening gelts Hat uns der Egemelt Fridreich der Schawinger und all sein
-               <cei:lb facs="#facs_45_l_7" n="N008"/>erben geben Irs rechten frein Aygens Sechs schilling [phening gelts gelegen zeNydern Dorfflein In
+               <cei:lb facs="#facs_45_l_4" n="N005"/>schilling phening gelts gelegen dacz Weczmanstal am perig Inherczogenburger pharr do dieczeit auf gesezzen
+               <cei:lb facs="#facs_45_l_5" n="N006"/>ist Ott dasselb gut dient jerleich die Egenanten Sechs schilling phening an Sand Michels tage fur die
+               <cei:lb facs="#facs_45_l_6" n="N007"/>vorgenanten Sechs schilling phening gelts Hat uns der Egemelt Fridreich der Schawinger und all sein
+               <cei:lb facs="#facs_45_l_7" n="N008"/>erben geben Irs rechten frein Aygens Sechs schilling phening gelts gelegen zeNydern Dorfflein In
                <cei:lb facs="#facs_45_l_8" n="N009"/>Chotweiger pharr do dieczeit auf gesezzen ist Symon der Friescher Und dasselb guet dient jerleichen
-               <cei:lb facs="#facs_45_l_9" n="N010"/>die [vorgenanten Sechs schilling [phening gelts an Sannd Merten tag Wir sein auch Fridreichs des [Schawinger
+               <cei:lb facs="#facs_45_l_9" n="N010"/>die vorgenanten Sechs schilling phening gelts an Sannd Merten tag Wir sein auch Fridreichs des Schawinger
                <cei:lb facs="#facs_45_l_11" n="N011"/>und aller seiner erben von des Egenanten guts wegen gelegen ze Weczmansta<cei:damage>l</cei:damage> mit aller seiner zuegehorung
                <cei:lb facs="#facs_45_l_12" n="N012"/>zeveld und zedorff Es sey gestift oder ungestift versuecht oder unversucht wie so das genant und wo auch
-               <cei:lb facs="#facs_45_l_14" n="N013"/>das [gelegen ist nichts [ausgenommen und auch der Sechs schilling [phening gelts die man davon jerleich dient
+               <cei:lb facs="#facs_45_l_14" n="N013"/>das gelegen ist nichts ausgenommen und auch der Sechs schilling phening gelts die man davon jerleich dient
                <cei:lb facs="#facs_45_l_16" n="N014"/>als vorbenant ist ir Rechter gewer Scherm und furstand fur alle ansprach als freys Aygens Recht ist und
                <cei:lb facs="#facs_45_l_17" n="N015"/>des Lanndes Recht ze Osterreich Gieng in aber daran ichtab mit Recht von wem das wer Swas sy des mit
-               <cei:lb facs="#facs_45_l_18" n="N016"/>Recht schaden nement wie der schad benannt wuerd den selben schaden allen [schullen und [wellen wir in gancz
+               <cei:lb facs="#facs_45_l_18" n="N016"/>Recht schaden nement wie der schad benannt wuerd den selben schaden allen schullen und wellen wir in gancz
                <cei:lb facs="#facs_45_l_19" n="N017"/>ablegen ausrichten und widerchern an all ir mue und scheden und Schullen Sy das haben dacz uns und
-               <cei:lb facs="#facs_45_l_20" n="N018"/>[unsern [Nachkomen [unverschaidenlich und darczu dacz allem dem guet das zu dem [Egenanten [unserm gocz-
+               <cei:lb facs="#facs_45_l_20" n="N018"/>unsern Nachkomen unverschaidenlich und darczu dacz allem dem guet das zu dem Egenanten unserm gocz-
                <cei:lb facs="#facs_45_l_22" n="N019"/>haws ze Kotweig gehort und das wir haben Indem Lannde ze Osterreich oder wa wir es Haben Wir sein
                <cei:lb facs="#facs_45_l_23" n="N020"/>Lemtig oder tod Und des ze urchunt und einer ewigen bestetigung der obergeschriben sach So geben
                <cei:lb facs="#facs_45_l_24" n="N021"/>wir Peter von gotes gnaden Abpt ze Kotweig und wir der gancz Convent gemain daselbs fur uns und fur
-               <cei:lb facs="#facs_45_l_25" n="N022"/>allunserr Nachkomen Dem Egenanten Fridreihen dem Schawinger und [allen seinen erben den brieff [Besigelten
-               <cei:lb facs="#facs_45_l_26" n="N023"/>und bestett mit [unsern bayden anhangunden Insigeln Geben Nach Kristy gepuerd vierczehenhundert Jare
+               <cei:lb facs="#facs_45_l_25" n="N022"/>allunserr Nachkomen Dem Egenanten Fridreihen dem Schawinger und allen seinen erben den brieff Besigelten
+               <cei:lb facs="#facs_45_l_26" n="N023"/>und bestett mit unsern bayden anhangunden Insigeln Geben Nach Kristy gepuerd vierczehenhundert Jare
                <cei:lb facs="#facs_45_l_13" n="N024"/>Darnach indem dritten an Phincztag nach Sannd Cholmans Tage
             </ab>
             <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             <ab facs="#facs_46_r">
                <cei:lb facs="#facs_46_l" n="N001"/>Wir peter von gotsgnaden abbt unserfrawn gotshaus ze Gottweig Und wir der gancz Conventt gemainchlich
-               <cei:lb facs="#facs_46_l_1" n="N002"/>daselbs Vergehen offenlich mit dem brief allen den er furkumpt das wir [unverschaidenlich schuldig sein und geltn
-               <cei:lb facs="#facs_46_l_2" n="N003"/>sulln dem Erbern Hannsen dem Chraft ze furt und allen [seinen erben Hundert phunt [phenning die Sy uns zu
-               <cei:lb facs="#facs_46_l_3" n="N004"/>[rechtter Schemberiger natdurft [unsers gotshausberait [gelihen [habent der wir Sy [richtten und wern [sullen von dem
-               <cei:lb facs="#facs_46_l_4" n="N005"/>nachsten kunftign Sand Mertentag uber ain gancz Jar [unverczogenlich Tett wir des nicht wann sy uns dann
-               <cei:lb facs="#facs_46_l_5" n="N006"/>monent und fodernt So sulln wir In zestet In dielaistung [schikchen zwen [erberr knecht mit zwain [pherdten gen [Chrems
-               <cei:lb facs="#facs_46_l_6" n="N007"/>In ein [erberr gasthaus wo Sy <cei:damage>...</cei:damage>sdann Inzaigent dy [sullen daInne ligen und [laisten alsInne [ligen und laistens recht ist
-               <cei:lb facs="#facs_46_l_8" n="N008"/>und des lanndes recht ze [Osterreich und <cei:damage>...</cei:damage> nicht auskom Sy sein dann Irs gelts gancz gericht und gewert Wer awer
-               <cei:lb facs="#facs_46_l_9" n="N009"/>das wir In laistung verczugn oder zelanng laistn [wollten das Sy des verduss was Sy des schadn nement Es sey
+               <cei:lb facs="#facs_46_l_1" n="N002"/>daselbs Vergehen offenlich mit dem brief allen den er furkumpt das wir unverschaidenlich schuldig sein und geltn
+               <cei:lb facs="#facs_46_l_2" n="N003"/>sulln dem Erbern Hannsen dem Chraft ze furt und allen seinen erben Hundert phunt phenning die Sy uns zu
+               <cei:lb facs="#facs_46_l_3" n="N004"/>rechtter Schemberiger natdurft unsers gotshausberait gelihen habent der wir Sy richtten und wern sullen von dem
+               <cei:lb facs="#facs_46_l_4" n="N005"/>nachsten kunftign Sand Mertentag uber ain gancz Jar unverczogenlich Tett wir des nicht wann sy uns dann
+               <cei:lb facs="#facs_46_l_5" n="N006"/>monent und fodernt So sulln wir In zestet In dielaistung schikchen zwen erberr knecht mit zwain pherdten gen Chrems
+               <cei:lb facs="#facs_46_l_6" n="N007"/>In ein erberr gasthaus wo Sy <cei:damage>...</cei:damage>sdann Inzaigent dy sullen daInne ligen und laisten alsInne ligen und laistens recht ist
+               <cei:lb facs="#facs_46_l_8" n="N008"/>und des lanndes recht ze Osterreich und <cei:damage>...</cei:damage> nicht auskom Sy sein dann Irs gelts gancz gericht und gewert Wer awer
+               <cei:lb facs="#facs_46_l_9" n="N009"/>das wir In laistung verczugn oder zelanng laistn wollten das Sy des verduss was Sy des schadn nement Es sey
                <cei:lb facs="#facs_46_l_10" n="N010"/>mit zerung mit potschaft mit nachraisen oder wie der schad benannt wurd den Ir ains bey seinen trewn mit slechtn
-               <cei:lb facs="#facs_46_l_11" n="N011"/>[worten [gesprechen mag [denselben [schaden alln mitsampt dem haubtguet [sullen und [wellen wir gancz [ablegen und wider-
-               <cei:lb facs="#facs_46_l_12" n="N012"/>chern an all Ir mue und schadn und [sullen sy das [haben auf uns[unverschaidenlich und darczu auf [allem dem guet das
-               <cei:lb facs="#facs_46_l_13" n="N013"/>Wir <cei:damage>...</cei:damage> haben Innerlannds und auserlannds Es sey erbguet oder varundguet nichts[ausgenomen nach hindan-
-               <cei:lb facs="#facs_46_l_14" n="N014"/>ges<cei:damage>...</cei:damage>zt davon Sy der lanndes furst oder wer seinen gwalt hat In Osterreich unsers guets sol gewaltig [machen an
+               <cei:lb facs="#facs_46_l_11" n="N011"/>worten gesprechen mag denselben schaden alln mitsampt dem haubtguet sullen und wellen wir gancz ablegen und wider-
+               <cei:lb facs="#facs_46_l_12" n="N012"/>chern an all Ir mue und schadn und sullen sy das haben auf unsunverschaidenlich und darczu auf allem dem guet das
+               <cei:lb facs="#facs_46_l_13" n="N013"/>Wir <cei:damage>...</cei:damage> haben Innerlannds und auserlannds Es sey erbguet oder varundguet nichtsausgenomen nach hindan-
+               <cei:lb facs="#facs_46_l_14" n="N014"/>ges<cei:damage>...</cei:damage>zt davon Sy der lanndes furst oder wer seinen gwalt hat In Osterreich unsers guets sol gewaltig machen an
                <cei:lb facs="#facs_46_l_15" n="N015"/>fu<cei:damage>rbot</cei:damage> an clag und an alles gaistlichs und weltlichs gericht alsverr alsoft und alslanng das Sy haubtguets und
-               <cei:lb facs="#facs_46_l_16" n="N016"/>a<cei:damage>...</cei:damage> schedn von uns gancz und gar gericht und beczalt sind das ist genczlich [unser wil wir sein lembtig oder tod
-               <cei:lb facs="#facs_46_l_17" n="N017"/>Und des ze urchund [geben wir dem [vorgenanten hannsen dem [Chraften und [allen seinen [erben den brief besiglttn mit
-               <cei:lb facs="#facs_46_l_18" n="N018"/>un<cei:damage>ser</cei:damage>s [vorgenanten abbt petreins und des Convents [paiden anhanngunden Insiglen Geben nach christi gepuerd vircze-
-               <cei:lb facs="#facs_46_l_19" n="N019"/>henhundert Jar darnach Im Sechsten Jare an aller [hayligentag
+               <cei:lb facs="#facs_46_l_16" n="N016"/>a<cei:damage>...</cei:damage> schedn von uns gancz und gar gericht und beczalt sind das ist genczlich unser wil wir sein lembtig oder tod
+               <cei:lb facs="#facs_46_l_17" n="N017"/>Und des ze urchund geben wir dem vorgenanten hannsen dem Chraften und allen seinen erben den brief besiglttn mit
+               <cei:lb facs="#facs_46_l_18" n="N018"/>un<cei:damage>ser</cei:damage>s vorgenanten abbt petreins und des Convents paiden anhanngunden Insiglen Geben nach christi gepuerd vircze-
+               <cei:lb facs="#facs_46_l_19" n="N019"/>henhundert Jar darnach Im Sechsten Jare an aller hayligentag
             </ab>
             <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             <ab facs="#facs_47_r">
-               <cei:lb facs="#facs_47_l" n="N001"/>Wir Peter Abbt und der ganzz Convent des klosters zum Kottweig [Bechennen fur uns und uns Nachkomen desselben
-               <cei:lb facs="#facs_47_l_2" n="N002"/>Gotzhaws Umb die dreizzig pfunt [phening Jerleichs zynnses So uns der erber her Augustin [pfarrer zu Hofstetten
-               <cei:lb facs="#facs_47_l_3" n="N003"/>Unserr lehenschafft des [hochgeboren [fursten Herczog Leupolts [herczogen ze [Osterreich etc [unsers [gnedigen [herren Schreiber Jerlich
-               <cei:lb facs="#facs_47_l_4" n="N004"/>von derselben seiner [kirchen pflichtig wer zugeben nach lautt des briefs den wir darumb von Im haben Daz wir
-               <cei:lb facs="#facs_47_l_5" n="N005"/>nach bete des [egenanten [unsers [genedigen [herren herczog Leupolts seiner Rete und auch von [sundern [gnaden den [obgenanten
-               <cei:lb facs="#facs_47_l_6" n="N006"/>[hern Augustinn des [vorgenanten [Jerleichen zynnses der dreissig phunt [phening bringet genczleich [begeben und In des
-               <cei:lb facs="#facs_47_l_7" n="N007"/>ledig und quitt gesagt haben all dieweil er [pfarrer daselbs zu [Hofstetten ist Und auch den brief So wir darumb von Im
-               <cei:lb facs="#facs_47_l_8" n="N008"/>haben vernichtet wissentleich mit dem brief In solchermass daz wir noch yemand von [unsern [wegen dhainerlay
-               <cei:lb facs="#facs_47_l_9" n="N009"/>vordrung noch zuspruch zu dem [egenanten [hern [Augustinn [seinem Vicari oder Schaffer derselben seiner [Kirichen [Hofstetten
-               <cei:lb facs="#facs_47_l_10" n="N010"/>umb den [vorgenanten Jerleichen zynns der dreizzig pfunt [pfening [bringet nicht haben sullen noch [wellen in [dhainerlay
-               <cei:lb facs="#facs_47_l_11" n="N011"/>weis Sunder derselb her Augustin die [obgenante sein [kirichen und all Ir leutt und guter sullen von uns und allen den [unsern
-               <cei:lb facs="#facs_47_l_12" n="N012"/>umbekumbert und umbeswert sein und [beleiben und den[vorgenanten brief den wir darumb von Im [haben sol auch genczlich
-               <cei:lb facs="#facs_47_l_13" n="N013"/>vernichtet und kraftlos sein demegenanten [hern [Augustinn zu [schaden und Uns zefromen [Wenn auch der [egenant her Augustin
-               <cei:lb facs="#facs_47_l_14" n="N014"/>mit ainer [andern [kirichen [beraten wirdet Es sey von [unserr [obgenanten [gnedigen [herschafft von [Osterreich oder von wem das sey wie
-               <cei:lb facs="#facs_47_l_15" n="N015"/>sich das [fuget So sol uns und [unserm Gotzhaus der [obgenante Zynns der dreizzig phunt [phening [genczleich [wider ledig sein
-               <cei:lb facs="#facs_47_l_16" n="N016"/>und [diser brief kain krafft mer [haben noch uns an [unsern [Rechten [gnaden und Bebstleichen [briefen so wirumb [denselben
-               <cei:lb facs="#facs_47_l_17" n="N017"/>zynns [haben [kainen [schaden [bringen in [dhainerlay weis ungeverleich Und des zu Urchund [geben wir Im denbrief ver-
-               <cei:lb facs="#facs_47_l_18" n="N018"/>[sigelten mit [unserr [baiderr [obgenanten [anhangunden Insigeln Der [geben ist in [unserm Kloster zum Kottweig an Suntag vor
-               <cei:lb facs="#facs_47_l_19" n="N019"/>Sand [Jorgen tag Nach [Krists geburde Vierczehen [Hundert Jar darnach imm Achten Jare
+               <cei:lb facs="#facs_47_l" n="N001"/>Wir Peter Abbt und der ganzz Convent des klosters zum Kottweig Bechennen fur uns und uns Nachkomen desselben
+               <cei:lb facs="#facs_47_l_2" n="N002"/>Gotzhaws Umb die dreizzig pfunt phening Jerleichs zynnses So uns der erber her Augustin pfarrer zu Hofstetten
+               <cei:lb facs="#facs_47_l_3" n="N003"/>Unserr lehenschafft des hochgeboren fursten Herczog Leupolts herczogen ze Osterreich etc unsers gnedigen herren Schreiber Jerlich
+               <cei:lb facs="#facs_47_l_4" n="N004"/>von derselben seiner kirchen pflichtig wer zugeben nach lautt des briefs den wir darumb von Im haben Daz wir
+               <cei:lb facs="#facs_47_l_5" n="N005"/>nach bete des egenanten unsers genedigen herren herczog Leupolts seiner Rete und auch von sundern gnaden den obgenanten
+               <cei:lb facs="#facs_47_l_6" n="N006"/>hern Augustinn des vorgenanten Jerleichen zynnses der dreissig phunt phening bringet genczleich begeben und In des
+               <cei:lb facs="#facs_47_l_7" n="N007"/>ledig und quitt gesagt haben all dieweil er pfarrer daselbs zu Hofstetten ist Und auch den brief So wir darumb von Im
+               <cei:lb facs="#facs_47_l_8" n="N008"/>haben vernichtet wissentleich mit dem brief In solchermass daz wir noch yemand von unsern wegen dhainerlay
+               <cei:lb facs="#facs_47_l_9" n="N009"/>vordrung noch zuspruch zu dem egenanten hern Augustinn seinem Vicari oder Schaffer derselben seiner Kirichen Hofstetten
+               <cei:lb facs="#facs_47_l_10" n="N010"/>umb den vorgenanten Jerleichen zynns der dreizzig pfunt pfening bringet nicht haben sullen noch wellen in dhainerlay
+               <cei:lb facs="#facs_47_l_11" n="N011"/>weis Sunder derselb her Augustin die obgenante sein kirichen und all Ir leutt und guter sullen von uns und allen den unsern
+               <cei:lb facs="#facs_47_l_12" n="N012"/>umbekumbert und umbeswert sein und beleiben und denvorgenanten brief den wir darumb von Im haben sol auch genczlich
+               <cei:lb facs="#facs_47_l_13" n="N013"/>vernichtet und kraftlos sein demegenanten hern Augustinn zu schaden und Uns zefromen Wenn auch der egenant her Augustin
+               <cei:lb facs="#facs_47_l_14" n="N014"/>mit ainer andern kirichen beraten wirdet Es sey von unserr obgenanten gnedigen herschafft von Osterreich oder von wem das sey wie
+               <cei:lb facs="#facs_47_l_15" n="N015"/>sich das fuget So sol uns und unserm Gotzhaus der obgenante Zynns der dreizzig phunt phening genczleich wider ledig sein
+               <cei:lb facs="#facs_47_l_16" n="N016"/>und diser brief kain krafft mer haben noch uns an unsern Rechten gnaden und Bebstleichen briefen so wirumb denselben
+               <cei:lb facs="#facs_47_l_17" n="N017"/>zynns haben kainen schaden bringen in dhainerlay weis ungeverleich Und des zu Urchund geben wir Im denbrief ver-
+               <cei:lb facs="#facs_47_l_18" n="N018"/>sigelten mit unserr baiderr obgenanten anhangunden Insigeln Der geben ist in unserm Kloster zum Kottweig an Suntag vor
+               <cei:lb facs="#facs_47_l_19" n="N019"/>Sand Jorgen tag Nach Krists geburde Vierczehen Hundert Jar darnach imm Achten Jare
             </ab>
             <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             <ab facs="#facs_48_r">
@@ -3628,86 +3602,86 @@
             </ab>
             <pb facs="#facs_51" n="51" xml:id="img_0051"/>
             <ab facs="#facs_51_r">
-               <cei:lb facs="#facs_51_l" n="N001"/>Ich Niklas der Schaffer dieczeit [Burger zu Chrembs Ich Kathrey sein hausfraw und all [unser [baider Erben [Vergehen [offnlichen 
-               <cei:lb facs="#facs_51_l_1" n="N002"/>mit dem brief und tuen kund allen [leuten lebntigen und kunftigen das wir recht und redlich gekauft [haben zu
-               <cei:lb facs="#facs_51_l_2" n="N003"/>aynem widerkauf von dem Erwirdigen gaistlichen [herren Abbt [Peteren und dem Convent [unser Frawn [gotshaws
-               <cei:lb facs="#facs_51_l_3" n="N004"/>zu Kottweig den weinczehent zu Straczing mit allen den eren [Rechten und nuczen alls der von alter [herkommen
-               <cei:lb facs="#facs_51_l_4" n="N005"/>ist umb drew [hundert pfundt [wienner [pfemning der wir Sy gancz beczallt [haben Mit solicher [beschaiden das der
-               <cei:lb facs="#facs_51_l_5" n="N006"/>[egenant Abbt Peter sein Convent und nachkom zu kotweig den [vorgenanten zehent wol mugen und mit vollem
-               <cei:lb facs="#facs_51_l_6" n="N007"/>gewallt hinfuer alle Jar Jerlich herwider von uns und [unsern [baiden Eriben kauffen [ainen Moneid vor Sand
-               <cei:lb facs="#facs_51_l_7" n="N008"/>[Margretentag oder [ainen [Moneid himnach umb drew [hundert pfundt [wienner [pfemning [ausgenomen das [gegen-
-               <cei:lb facs="#facs_51_l_8" n="N009"/>burtig Jar Wer aber das ich [vorgenanter Niklas Schaffer Ich Kathrei sein hausfraw und all [unser baid [eriben
-               <cei:lb facs="#facs_51_l_9" n="N010"/>des kauffs alls oben [geschriben ist nicht [lenger [mochten oder wolten [haben das sullen wir dem [vorgenanten gaist-
-               <cei:lb facs="#facs_51_l_10" n="N011"/>lichen [herrn Abbt Petern seinem Convent oder [nachkommen des gotshaus zu Kottweig vor zewissen tuen
-               <cei:lb facs="#facs_51_l_11" n="N012"/>und lassen wissen ain Moneyt vor Sand [Margretentag oder ain Moneid hinnach denne sullen Sy uns
-               <cei:lb facs="#facs_51_l_12" n="N013"/>[unsers [obgenanten gelts anvercziehen inderselben zeit [ausrichten und beczallen nach [unsers briefs sag So wir von
-               <cei:lb facs="#facs_51_l_13" n="N014"/>In dorumb haben Und wenn Sy uns denn also beczallent denn so sullen wir In und all [unser baid eribn
-               <cei:lb facs="#facs_51_l_14" n="N015"/>des kauffs und Irs weinczehent alls der [oben benandt ist genuczlich abtreten angeverd und an alle wi-
-               <cei:lb facs="#facs_51_l_15" n="N016"/>deredd [Tetten oder [reddieten wir oder ander yemandt von [unsern wegen ichts dawider das [hieten wir
-               <cei:lb facs="#facs_51_l_16" n="N017"/>alls [verloren uns Sy mit dem [rechten gewunnen Und des zu urkund [geben wir den [egenanten [Egenanten [gaistlichen
-               <cei:lb facs="#facs_51_l_17" n="N018"/>[herren dem Abbt und seinem Convent und gotshaus zu Kottweig und [nachkommen daselbs den brif [versiglten
-               <cei:lb facs="#facs_51_l_18" n="N019"/>mit meinem [obgenanten Niklasen des Schaffer [anhangunden InSigil [dorunder ich mich [obgenante Katherei sein [hausfrawen
-               <cei:lb facs="#facs_51_l_19" n="N020"/>und all [unser baider [erben mit [unsern trewn [verpinden alls das stet ze[haben das [oben [geschriben stet Auch
-               <cei:lb facs="#facs_51_l_20" n="N021"/>[haben wir vleisslich [gepeten den Eribern und weisen Merten den Egenburger dieczeit StattRichter baider
-               <cei:lb facs="#facs_51_l_21" n="N022"/>Stet zu Krembs und zu Stain das er der Sach zeug ist mit seinem [anhangunden InSigil Im und sein
-               <cei:lb facs="#facs_51_l_22" n="N023"/>Eriben an schaden der [geben ist nach Kristi gepurd [virczehnhundert Jar darnach Indem [Newnten Jare
-               <cei:lb facs="#facs_51_l_23" n="N024"/>an Sand [Margrettentag
+               <cei:lb facs="#facs_51_l" n="N001"/>Ich Niklas der Schaffer dieczeit Burger zu Chrembs Ich Kathrey sein hausfraw und all unser baider Erben Vergehen offnlichen 
+               <cei:lb facs="#facs_51_l_1" n="N002"/>mit dem brief und tuen kund allen leuten lebntigen und kunftigen das wir recht und redlich gekauft haben zu
+               <cei:lb facs="#facs_51_l_2" n="N003"/>aynem widerkauf von dem Erwirdigen gaistlichen herren Abbt Peteren und dem Convent unser Frawn gotshaws
+               <cei:lb facs="#facs_51_l_3" n="N004"/>zu Kottweig den weinczehent zu Straczing mit allen den eren Rechten und nuczen alls der von alter herkommen
+               <cei:lb facs="#facs_51_l_4" n="N005"/>ist umb drew hundert pfundt wienner pfemning der wir Sy gancz beczallt haben Mit solicher beschaiden das der
+               <cei:lb facs="#facs_51_l_5" n="N006"/>egenant Abbt Peter sein Convent und nachkom zu kotweig den vorgenanten zehent wol mugen und mit vollem
+               <cei:lb facs="#facs_51_l_6" n="N007"/>gewallt hinfuer alle Jar Jerlich herwider von uns und unsern baiden Eriben kauffen ainen Moneid vor Sand
+               <cei:lb facs="#facs_51_l_7" n="N008"/>Margretentag oder ainen Moneid himnach umb drew hundert pfundt wienner pfemning ausgenomen das gegen-
+               <cei:lb facs="#facs_51_l_8" n="N009"/>burtig Jar Wer aber das ich vorgenanter Niklas Schaffer Ich Kathrei sein hausfraw und all unser baid eriben
+               <cei:lb facs="#facs_51_l_9" n="N010"/>des kauffs alls oben geschriben ist nicht lenger mochten oder wolten haben das sullen wir dem vorgenanten gaist-
+               <cei:lb facs="#facs_51_l_10" n="N011"/>lichen herrn Abbt Petern seinem Convent oder nachkommen des gotshaus zu Kottweig vor zewissen tuen
+               <cei:lb facs="#facs_51_l_11" n="N012"/>und lassen wissen ain Moneyt vor Sand Margretentag oder ain Moneid hinnach denne sullen Sy uns
+               <cei:lb facs="#facs_51_l_12" n="N013"/>unsers obgenanten gelts anvercziehen inderselben zeit ausrichten und beczallen nach unsers briefs sag So wir von
+               <cei:lb facs="#facs_51_l_13" n="N014"/>In dorumb haben Und wenn Sy uns denn also beczallent denn so sullen wir In und all unser baid eribn
+               <cei:lb facs="#facs_51_l_14" n="N015"/>des kauffs und Irs weinczehent alls der oben benandt ist genuczlich abtreten angeverd und an alle wi-
+               <cei:lb facs="#facs_51_l_15" n="N016"/>deredd Tetten oder reddieten wir oder ander yemandt von unsern wegen ichts dawider das hieten wir
+               <cei:lb facs="#facs_51_l_16" n="N017"/>alls verloren uns Sy mit dem rechten gewunnen Und des zu urkund geben wir den egenanten Egenanten gaistlichen
+               <cei:lb facs="#facs_51_l_17" n="N018"/>herren dem Abbt und seinem Convent und gotshaus zu Kottweig und nachkommen daselbs den brif versiglten
+               <cei:lb facs="#facs_51_l_18" n="N019"/>mit meinem obgenanten Niklasen des Schaffer anhangunden InSigil dorunder ich mich obgenante Katherei sein hausfrawen
+               <cei:lb facs="#facs_51_l_19" n="N020"/>und all unser baider erben mit unsern trewn verpinden alls das stet zehaben das oben geschriben stet Auch
+               <cei:lb facs="#facs_51_l_20" n="N021"/>haben wir vleisslich gepeten den Eribern und weisen Merten den Egenburger dieczeit StattRichter baider
+               <cei:lb facs="#facs_51_l_21" n="N022"/>Stet zu Krembs und zu Stain das er der Sach zeug ist mit seinem anhangunden InSigil Im und sein
+               <cei:lb facs="#facs_51_l_22" n="N023"/>Eriben an schaden der geben ist nach Kristi gepurd virczehnhundert Jar darnach Indem Newnten Jare
+               <cei:lb facs="#facs_51_l_23" n="N024"/>an Sand Margrettentag
             </ab>
             <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             <ab facs="#facs_52_r">
-               <cei:lb facs="#facs_52_l" n="N001"/>Wir Peter von [gotsgnaden Abbt [unser Frawn gotshaus zu Kotweig und wir der gancz Convent gemainklich doselbs [Vergehen offnlich
-               <cei:lb facs="#facs_52_l_1" n="N002"/>mit dem brief allen [leuten [lebntigen und kunftigen das wir sullig warden sein und gelten [sullen dem [Erberen Mariczen von
-               <cei:lb facs="#facs_52_l_2" n="N003"/>Spicz dieczeit [hoffmaister zu Arenstorff und seiner hausfrawn Dorothen und [Ieren baiden [eriben zway [hundert pfundt wienner
-               <cei:lb facs="#facs_52_l_3" n="N004"/>[pfenning die Sy uns zu unsers Gotshauses merklicher notdurft berait gelihen [habent Der wir Sy Richten und weren
-               <cei:lb facs="#facs_52_l_4" n="N005"/>sullen zu Sand Jorigentag schierist [kunftigen an[vercziehen Tetten wir des nicht wann Sy uns denn [vorderent und mantt
-               <cei:lb facs="#facs_52_l_5" n="N006"/>So [sullen wir In Indie laistung schiken zwen Erber knecht mit vier [pherdten gen krembs in ain erber gatshaus wo Sy
-               <cei:lb facs="#facs_52_l_6" n="N007"/>uns den Inczaigent die sullen doInne ligen und laisten alls Innligens und laistens recht ist und des lannds recht In[Osterreich
-               <cei:lb facs="#facs_52_l_8" n="N008"/>und do nicht auskomen Sy sein denn Ir<cei:damage>...</cei:damage> [obgenanten gelts ganncz ausgericht und beczallt Wer aber das wir In laistung ver-
-               <cei:lb facs="#facs_52_l_9" n="N009"/>zugen und nicht laistieten oder zu lanng laisten wolten das Sy des verdruss was Sy des [obgenanten gelts den schaden ne-
+               <cei:lb facs="#facs_52_l" n="N001"/>Wir Peter von gotsgnaden Abbt unser Frawn gotshaus zu Kotweig und wir der gancz Convent gemainklich doselbs Vergehen offnlich
+               <cei:lb facs="#facs_52_l_1" n="N002"/>mit dem brief allen leuten lebntigen und kunftigen das wir sullig warden sein und gelten sullen dem Erberen Mariczen von
+               <cei:lb facs="#facs_52_l_2" n="N003"/>Spicz dieczeit hoffmaister zu Arenstorff und seiner hausfrawn Dorothen und Ieren baiden eriben zway hundert pfundt wienner
+               <cei:lb facs="#facs_52_l_3" n="N004"/>pfenning die Sy uns zu unsers Gotshauses merklicher notdurft berait gelihen habent Der wir Sy Richten und weren
+               <cei:lb facs="#facs_52_l_4" n="N005"/>sullen zu Sand Jorigentag schierist kunftigen anvercziehen Tetten wir des nicht wann Sy uns denn vorderent und mantt
+               <cei:lb facs="#facs_52_l_5" n="N006"/>So sullen wir In Indie laistung schiken zwen Erber knecht mit vier pherdten gen krembs in ain erber gatshaus wo Sy
+               <cei:lb facs="#facs_52_l_6" n="N007"/>uns den Inczaigent die sullen doInne ligen und laisten alls Innligens und laistens recht ist und des lannds recht InOsterreich
+               <cei:lb facs="#facs_52_l_8" n="N008"/>und do nicht auskomen Sy sein denn Ir<cei:damage>...</cei:damage> obgenanten gelts ganncz ausgericht und beczallt Wer aber das wir In laistung ver-
+               <cei:lb facs="#facs_52_l_9" n="N009"/>zugen und nicht laistieten oder zu lanng laisten wolten das Sy des verdruss was Sy des obgenanten gelts den schaden ne-
                <cei:lb facs="#facs_52_l_10" n="N010"/>ment Es sey mit botschaft mit nachraisen mit zerung oder wie der schad benandt wurdt <cei:damage>...</cei:damage> Ir schein-
-               <cei:lb facs="#facs_52_l_11" n="N011"/>pot bey seinen trewn mit slechten worten dorumb zu gelauben gesprechen mag [denselben schaden allen zu sambt <cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_52_l_12" n="N012"/>hauptguet [sullen und wellen wir Sy gennczlich ausrichten ablegen und widerkeren an all ir mue und scheden und [sullen
-               <cei:lb facs="#facs_52_l_13" n="N013"/><cei:damage>...</cei:damage> das [haben dacz uns und [unverschaiden auf allen [unsern Gotshaus [gueteren wie die genandt oder wo die gelegen sein ni<cei:damage>...</cei:damage>
-               <cei:lb facs="#facs_52_l_14" n="N014"/>[ausgenomen Dovon Sy der lanndes fuerst oder wer sein gewalt hat In [Osterreich unsers guets gewaltig machen sol an fuer-
-               <cei:lb facs="#facs_52_l_15" n="N015"/>pot an klag und an alls [gaistliches und weltliches gericht alsvil [alsverer alsofft und alls lanng uncz Sy hawpguts
-               <cei:lb facs="#facs_52_l_17" n="N016"/>und aller scheden ganncz und gar ausgerich und beczallt sein Das ist gutlich [unser will wir sein lebntig oder tod
-               <cei:lb facs="#facs_52_l_18" n="N017"/>Und des zu urkund [geben wir In den brief [besigilten mit [unserm und unsers Convents [baiden [anhangunden InSigillen
-               <cei:lb facs="#facs_52_l_19" n="N018"/>[Geben zu Kottweig an Sand [Petronellentag nach krists gepurd [vierczehenhundert Jar darnach Indem Zehenten
+               <cei:lb facs="#facs_52_l_11" n="N011"/>pot bey seinen trewn mit slechten worten dorumb zu gelauben gesprechen mag denselben schaden allen zu sambt <cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_52_l_12" n="N012"/>hauptguet sullen und wellen wir Sy gennczlich ausrichten ablegen und widerkeren an all ir mue und scheden und sullen
+               <cei:lb facs="#facs_52_l_13" n="N013"/><cei:damage>...</cei:damage> das haben dacz uns und unverschaiden auf allen unsern Gotshaus gueteren wie die genandt oder wo die gelegen sein ni<cei:damage>...</cei:damage>
+               <cei:lb facs="#facs_52_l_14" n="N014"/>ausgenomen Dovon Sy der lanndes fuerst oder wer sein gewalt hat In Osterreich unsers guets gewaltig machen sol an fuer-
+               <cei:lb facs="#facs_52_l_15" n="N015"/>pot an klag und an alls gaistliches und weltliches gericht alsvil alsverer alsofft und alls lanng uncz Sy hawpguts
+               <cei:lb facs="#facs_52_l_17" n="N016"/>und aller scheden ganncz und gar ausgerich und beczallt sein Das ist gutlich unser will wir sein lebntig oder tod
+               <cei:lb facs="#facs_52_l_18" n="N017"/>Und des zu urkund geben wir In den brief besigilten mit unserm und unsers Convents baiden anhangunden InSigillen
+               <cei:lb facs="#facs_52_l_19" n="N018"/>Geben zu Kottweig an Sand Petronellentag nach krists gepurd vierczehenhundert Jar darnach Indem Zehenten
                <cei:lb facs="#facs_52_l_20" n="N019"/>Jare
             </ab>
             <pb facs="#facs_53" n="53" xml:id="img_0053"/>
             <ab facs="#facs_53_r">
-               <cei:lb facs="#facs_53_l" n="N001"/><cei:damage>...</cei:damage>r frawn Gotshaus zu Gottweig und wir der gancz Convent [gemainklichen doselbs Vergehen
-               <cei:lb facs="#facs_53_l_1" n="N002"/><cei:damage>...</cei:damage>de allen leuten lebentigen und kunftigen Das wir [unverschaidenleich schuldig sein und geltn [sullen
+               <cei:lb facs="#facs_53_l" n="N001"/><cei:damage>...</cei:damage>r frawn Gotshaus zu Gottweig und wir der gancz Convent gemainklichen doselbs Vergehen
+               <cei:lb facs="#facs_53_l_1" n="N002"/><cei:damage>...</cei:damage>de allen leuten lebentigen und kunftigen Das wir unverschaidenleich schuldig sein und geltn sullen
                <cei:lb facs="#facs_53_l_2" n="N003"/><cei:damage>...</cei:damage>slager Chlaren seiner hausfrawn und Ieren baiden eriben Hundert und Dreissigkch
-               <cei:lb facs="#facs_53_l_3" n="N004"/><cei:damage>...</cei:damage> uns zu [unsers gotshaus Nottdurft berait gelihen habent Der wir Sew hinbider [fuerderlich
-               <cei:lb facs="#facs_53_l_4" n="N005"/><cei:damage>...</cei:damage> Sew die an uns [vorderent darnach uber Sechgs wochen an alls verziehen Tetten wir
-               <cei:lb facs="#facs_53_l_5" n="N006"/><cei:damage>...</cei:damage>nent und [vorderent So sullen wir In laisten oder Indie Laistung schiken zwen Erber knecht
+               <cei:lb facs="#facs_53_l_3" n="N004"/><cei:damage>...</cei:damage> uns zu unsers gotshaus Nottdurft berait gelihen habent Der wir Sew hinbider fuerderlich
+               <cei:lb facs="#facs_53_l_4" n="N005"/><cei:damage>...</cei:damage> Sew die an uns vorderent darnach uber Sechgs wochen an alls verziehen Tetten wir
+               <cei:lb facs="#facs_53_l_5" n="N006"/><cei:damage>...</cei:damage>nent und vorderent So sullen wir In laisten oder Indie Laistung schiken zwen Erber knecht
                <cei:lb facs="#facs_53_l_6" n="N007"/><cei:damage>...</cei:damage>n erber Gasthaus Wo sew uns denn Inzaigent die sullen doselbs Inligen und laisten alls
-               <cei:lb facs="#facs_53_l_7" n="N008"/><cei:damage>...</cei:damage> und des Lanndes recht In Osterreich und do nicht auskamen Sy sein dann irs [obgenanten gelts
-               <cei:lb facs="#facs_53_l_8" n="N009"/><cei:damage>...</cei:damage>er aber das wir In laistung verzugen oder zu lang laisten [wolten das Sy des verdruss
-               <cei:lb facs="#facs_53_l_9" n="N010"/><cei:damage>...</cei:damage>n [vorgenanten tag schaden nement Es sey mit botschaft mit zerung mit nachraisen oder wie der
-               <cei:lb facs="#facs_53_l_10" n="N011"/><cei:damage>...</cei:damage> oder hincz Juden den Sew oder ir scheinbot mit slechten [worten gesprechen mag [denselben
-               <cei:lb facs="#facs_53_l_11" n="N012"/><cei:damage>...</cei:damage> sullen und wellen wir Sew gancz und gar [ausrichten und bezallen und sullen Sew das
-               <cei:lb facs="#facs_53_l_12" n="N013"/><cei:damage>...</cei:damage> und [unverschaidenleich auf allem [unserm guet Dovon Sew der Lannds fuerst oder wer seinen
-               <cei:lb facs="#facs_53_l_13" n="N014"/><cei:damage>...</cei:damage> Guts alsvil gewaltig machen sol an fuerbot an klag und an alls [berechten gaistlichs
-               <cei:lb facs="#facs_53_l_14" n="N015"/><cei:damage>...</cei:damage> lang uncz Sew haupguts und aller [schaden gancz ausgericht und gewert sind das ist
-               <cei:lb facs="#facs_53_l_15" n="N016"/><cei:damage>...</cei:damage>ig oder tood Geben zu Gottweig ist der brief zu einem waren urkund dem [egenanten Hannsen
-               <cei:lb facs="#facs_53_l_16" n="N017"/><cei:damage>...</cei:damage>frawn Chlaren und [Ieren baiden eriben von uns [unserm Convent und Gotshaus zu Kott-
-               <cei:lb facs="#facs_53_l_17" n="N018"/><cei:damage>...</cei:damage> [unserm Convent baiden [anhangunden Insigilln Das geschehen ist nach kristi gepurd vir-
+               <cei:lb facs="#facs_53_l_7" n="N008"/><cei:damage>...</cei:damage> und des Lanndes recht In Osterreich und do nicht auskamen Sy sein dann irs obgenanten gelts
+               <cei:lb facs="#facs_53_l_8" n="N009"/><cei:damage>...</cei:damage>er aber das wir In laistung verzugen oder zu lang laisten wolten das Sy des verdruss
+               <cei:lb facs="#facs_53_l_9" n="N010"/><cei:damage>...</cei:damage>n vorgenanten tag schaden nement Es sey mit botschaft mit zerung mit nachraisen oder wie der
+               <cei:lb facs="#facs_53_l_10" n="N011"/><cei:damage>...</cei:damage> oder hincz Juden den Sew oder ir scheinbot mit slechten worten gesprechen mag denselben
+               <cei:lb facs="#facs_53_l_11" n="N012"/><cei:damage>...</cei:damage> sullen und wellen wir Sew gancz und gar ausrichten und bezallen und sullen Sew das
+               <cei:lb facs="#facs_53_l_12" n="N013"/><cei:damage>...</cei:damage> und unverschaidenleich auf allem unserm guet Dovon Sew der Lannds fuerst oder wer seinen
+               <cei:lb facs="#facs_53_l_13" n="N014"/><cei:damage>...</cei:damage> Guts alsvil gewaltig machen sol an fuerbot an klag und an alls berechten gaistlichs
+               <cei:lb facs="#facs_53_l_14" n="N015"/><cei:damage>...</cei:damage> lang uncz Sew haupguts und aller schaden gancz ausgericht und gewert sind das ist
+               <cei:lb facs="#facs_53_l_15" n="N016"/><cei:damage>...</cei:damage>ig oder tood Geben zu Gottweig ist der brief zu einem waren urkund dem egenanten Hannsen
+               <cei:lb facs="#facs_53_l_16" n="N017"/><cei:damage>...</cei:damage>frawn Chlaren und Ieren baiden eriben von uns unserm Convent und Gotshaus zu Kott-
+               <cei:lb facs="#facs_53_l_17" n="N018"/><cei:damage>...</cei:damage> unserm Convent baiden anhangunden Insigilln Das geschehen ist nach kristi gepurd vir-
                <cei:lb facs="#facs_53_l_18" n="N019"/><cei:damage>...</cei:damage>dem Ayndlesten Jare an Sannd Merten tag
             </ab>
             <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             <ab facs="#facs_54_r">
                <cei:lb facs="#facs_54_l" n="N001"/>Wir Peter Von gotes gnaden Abbt Unser frawn Gotshaus zu Gottweig Bekennen offenleich mit
-               <cei:lb facs="#facs_54_l_1" n="N002"/>dem brief Als der Edel herr her Wilhallem der hausler seiner sunderlieben eleichen [hausfrawen
-               <cei:lb facs="#facs_54_l_2" n="N003"/>[Wennignam nach lautt seines aufgab briefs den wir von Im darumb haben gemacht hat
-               <cei:lb facs="#facs_54_l_3" n="N004"/>die hernach geschriben gult und gueter die von uns und [unserem Gotshaus In purkch-
+               <cei:lb facs="#facs_54_l_1" n="N002"/>dem brief Als der Edel herr her Wilhallem der hausler seiner sunderlieben eleichen hausfrawen
+               <cei:lb facs="#facs_54_l_2" n="N003"/>Wennignam nach lautt seines aufgab briefs den wir von Im darumb haben gemacht hat
+               <cei:lb facs="#facs_54_l_3" n="N004"/>die hernach geschriben gult und gueter die von uns und unserem Gotshaus In purkch-
                <cei:lb facs="#facs_54_l_4" n="N005"/>rechts gewers zu lechen sind von Erst den hoff In dem tal den zehent zu Pyela mit
-               <cei:lb facs="#facs_54_l_5" n="N006"/>seiner Zuegehorung und die zehent zu pheffing und zu haffnerpach Also [bestetten wir das
-               <cei:lb facs="#facs_54_l_6" n="N007"/>egenant gemecht wissentleich mit kraft des briefs der [egenanten frawn Wenignam als
+               <cei:lb facs="#facs_54_l_5" n="N006"/>seiner Zuegehorung und die zehent zu pheffing und zu haffnerpach Also bestetten wir das
+               <cei:lb facs="#facs_54_l_6" n="N007"/>egenant gemecht wissentleich mit kraft des briefs der egenanten frawn Wenignam als
                <cei:lb facs="#facs_54_l_7" n="N008"/>Margengabs Gemechts und lanndes recht ist in Osterreich Mit urkund des briefs versi-
-               <cei:lb facs="#facs_54_l_8" n="N009"/>gelt mit [unserem anhangunden [InSigel Der brief ist geben nach kristi gepurd virczehen
+               <cei:lb facs="#facs_54_l_8" n="N009"/>gelt mit unserem anhangunden InSigel Der brief ist geben nach kristi gepurd virczehen
                <cei:lb facs="#facs_54_l_9" n="N010"/>hundert Jar darnach In dem zwainczigisten Jar an sand Margretten tag
             </ab>
             <pb facs="#facs_55" n="55" xml:id="img_0055"/>
@@ -3730,27 +3704,27 @@
             </ab>
             <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             <ab facs="#facs_56_r">
-               <cei:lb facs="#facs_56_l" n="N001"/>Wir Lucas von Gotes [genaden Abbt [unser frawn Goczhaus czu Gottweig Und Wir der gancz Convent gemainckleich daselbs Bekennen offenleich mit dem brieff fur uns und all [unser nachkomen und
-               <cei:lb facs="#facs_56_l_1" n="N002"/>tunn kund [menichleichen allen Leuten [gegenburtigen und [kunftigen Von des Hoffs [wegen zu Chalchgrueb in unserr Herschaft czu nidern Renna [gelegen czu nagst wernharts des pairs sun Hofstat Den Hanns
-               <cei:lb facs="#facs_56_l_25" n="N003"/>Pogschucz und Anna sein Hausfrau miteinander von [Hannsen von Chalchgrueb erchaufft habent Davon man Jerleich dint in [unsern hoff gen nidern Renna ain phunt [phening an sand michells tag und [dreyczehen
-               <cei:lb facs="#facs_56_l_26" n="N004"/>[meczen [habern und virundczwainczikch [hunrrphening und [czehen ches albeg [ainen fur [ainen [phening Item So dint man davon an dye Tunaw czwen undczwainczikch [meczen [habern [vogtfueter an dem schaff cze [messen
-               <cei:lb facs="#facs_56_l_27" n="N005"/>und albeg auf ain schaff newn [phening und dem vogt gen Tirnstain wer der ist sechs [meczen [habern Auch ist man Jerleich davon phlichtig zu [dienen in [unsern hoff gen nidern Renna drey Robott Denselben
-               <cei:lb facs="#facs_56_l_28" n="N006"/>[vorgenanten hoff mit aller [seiner czugehorung czu veld czu dorff versucht und unversucht wie der von allter ist herkomen nichts [ausgenammen [haben wir dem [egenanten [Hannsen dem [pogschuczen unserm
-               <cei:lb facs="#facs_56_l_29" n="N007"/>phleger czu nidern Renna nach dem kaufrecht so er darauf hat gelihen In solher [maynung Das wir Im den [vorgeschriben dinst so auf dem [obgenanten hoff leit von sundern [genaden und durch [vleissiger bet und
-               <cei:lb facs="#facs_56_l_30" n="N008"/>[seiner trewn dinst willn so er uns und unserm Goczhaus erczaigt hat und noch hinfur tun schol geringert [gemynnert und [abgenummen [haben und [haben Im den czu leibgeding auf drey leib [lassen
-               <cei:lb facs="#facs_56_l_31" n="N009"/>Das ist auf seinen Sun [ulreichen und auf sein czwo tochter elena und wenndlein und nicht verrer also alslang [dyeselben drey leib in [leben sind als lang [schullen Sy uns Jerleich von dem Hoff
-               <cei:lb facs="#facs_56_l_32" n="N010"/>[geben [raihen und [dienen in unsern hoff zu nidern [Renna ain phunt [phening an sand Michels tag und an dye Tunaw [virczehen [meczen [habern [vogtfueter und newn [phening darauff und dem vogt
-               <cei:lb facs="#facs_56_l_33" n="N011"/>czu Tiernstain wer der ist sechs [meczen [habern und nicht mer an alles [vercziehen und alle ausred ungeverleich Sy [schullen auch den hoff pauleich und stiftlich [legen und [Innehaben und den wider
-               <cei:lb facs="#facs_56_l_35" n="N012"/>czu [fruchten und czu guetem paw bringen czu veld und czu dorff mit aller nottdurfft und darInn nichts [vercziehen ungeverleichen und was Sy czu veld darauff erpawent darInn haben wir
-               <cei:lb facs="#facs_56_l_36" n="N013"/>uberall den [dritten tail des czehents der uns und unserm Goczhaus czugeburdet [Denselben czehent [schullen Sy In nicht [incziehen noch uns chainerlay Irrung darInn tun ungeverleich Item Sy
-               <cei:lb facs="#facs_56_l_37" n="N014"/>[mugen auch alle Ire gerechtichait dye Sy an dem [vorgenanten hoff mit seiner czugehorung habent verrer verchumern mit [verseczen [verkauffen [schaffen [machen und [geben wemb Sy [wellen
-               <cei:lb facs="#facs_56_l_38" n="N015"/>wie In das am pessten fuegleich ist doch mit unserr [willen und wissen und auf der [vorgenanten dreyer leib Lebteg und nicht [verrer damit uns und unserm Gotzhaus an unser und seiner
-               <cei:lb facs="#facs_56_l_39" n="N016"/>gerechtichait nichts abgee Und wann dye drey leib [nymmer sind und mit tod [vergangen und [verschaiden [seinn So [sullen uns Ir ngst frewnt dann [denselben hoff mit aller [seiner [czugehorung
-               <cei:lb facs="#facs_56_l_40" n="N017"/>widerumb [verdienen mit dem alten dinst damit er von allter ist herkomen und als das [oben an dem brieff nemleich [geschriben stet nichts hindan geseczt an alle widerred ungeverleich
-               <cei:lb facs="#facs_56_l_41" n="N018"/>Teten Sy aber des nicht des Sy den alten dinst davon nicht wolt [raihen als [oben [begriffen ist So [sullen Sy uns dann [denselben hoff mit aller [seiner [czugehorung [Czustifften mit allen den [eren und [rechten
-               <cei:lb facs="#facs_56_l_42" n="N019"/>als der von allter ist herkomen ainem geleichem mann der uns und unserm Gotzhaus und auch In darczu gefall und fuegleich sey ungeverleich Des czu urkund Geben wir dem [vorgenanten
-               <cei:lb facs="#facs_56_l_43" n="N020"/>[Hannsen [pogschuczen und Anna [seiner [hausfrawen auf dye [vorgemelten drey leib [Ulreichen elena und wenndlein den brieff Besigellt mit unser und unsers Convents baider [anhangunden [Insigeln
-               <cei:lb facs="#facs_56_l_44" n="N021"/>[Geben nach [christi geburd [virczehen hundert Jar darnach in dem funfunddreyssigistem Jare an Montag nach Sannd [Margareten tag
+               <cei:lb facs="#facs_56_l" n="N001"/>Wir Lucas von Gotes genaden Abbt unser frawn Goczhaus czu Gottweig Und Wir der gancz Convent gemainckleich daselbs Bekennen offenleich mit dem brieff fur uns und all unser nachkomen und
+               <cei:lb facs="#facs_56_l_1" n="N002"/>tunn kund menichleichen allen Leuten gegenburtigen und kunftigen Von des Hoffs wegen zu Chalchgrueb in unserr Herschaft czu nidern Renna gelegen czu nagst wernharts des pairs sun Hofstat Den Hanns
+               <cei:lb facs="#facs_56_l_25" n="N003"/>Pogschucz und Anna sein Hausfrau miteinander von Hannsen von Chalchgrueb erchaufft habent Davon man Jerleich dint in unsern hoff gen nidern Renna ain phunt phening an sand michells tag und dreyczehen
+               <cei:lb facs="#facs_56_l_26" n="N004"/>meczen habern und virundczwainczikch hunrrphening und czehen ches albeg ainen fur ainen phening Item So dint man davon an dye Tunaw czwen undczwainczikch meczen habern vogtfueter an dem schaff cze messen
+               <cei:lb facs="#facs_56_l_27" n="N005"/>und albeg auf ain schaff newn phening und dem vogt gen Tirnstain wer der ist sechs meczen habern Auch ist man Jerleich davon phlichtig zu dienen in unsern hoff gen nidern Renna drey Robott Denselben
+               <cei:lb facs="#facs_56_l_28" n="N006"/>vorgenanten hoff mit aller seiner czugehorung czu veld czu dorff versucht und unversucht wie der von allter ist herkomen nichts ausgenammen haben wir dem egenanten Hannsen dem pogschuczen unserm
+               <cei:lb facs="#facs_56_l_29" n="N007"/>phleger czu nidern Renna nach dem kaufrecht so er darauf hat gelihen In solher maynung Das wir Im den vorgeschriben dinst so auf dem obgenanten hoff leit von sundern genaden und durch vleissiger bet und
+               <cei:lb facs="#facs_56_l_30" n="N008"/>seiner trewn dinst willn so er uns und unserm Goczhaus erczaigt hat und noch hinfur tun schol geringert gemynnert und abgenummen haben und haben Im den czu leibgeding auf drey leib lassen
+               <cei:lb facs="#facs_56_l_31" n="N009"/>Das ist auf seinen Sun ulreichen und auf sein czwo tochter elena und wenndlein und nicht verrer also alslang dyeselben drey leib in leben sind als lang schullen Sy uns Jerleich von dem Hoff
+               <cei:lb facs="#facs_56_l_32" n="N010"/>geben raihen und dienen in unsern hoff zu nidern Renna ain phunt phening an sand Michels tag und an dye Tunaw virczehen meczen habern vogtfueter und newn phening darauff und dem vogt
+               <cei:lb facs="#facs_56_l_33" n="N011"/>czu Tiernstain wer der ist sechs meczen habern und nicht mer an alles vercziehen und alle ausred ungeverleich Sy schullen auch den hoff pauleich und stiftlich legen und Innehaben und den wider
+               <cei:lb facs="#facs_56_l_35" n="N012"/>czu fruchten und czu guetem paw bringen czu veld und czu dorff mit aller nottdurfft und darInn nichts vercziehen ungeverleichen und was Sy czu veld darauff erpawent darInn haben wir
+               <cei:lb facs="#facs_56_l_36" n="N013"/>uberall den dritten tail des czehents der uns und unserm Goczhaus czugeburdet Denselben czehent schullen Sy In nicht incziehen noch uns chainerlay Irrung darInn tun ungeverleich Item Sy
+               <cei:lb facs="#facs_56_l_37" n="N014"/>mugen auch alle Ire gerechtichait dye Sy an dem vorgenanten hoff mit seiner czugehorung habent verrer verchumern mit verseczen verkauffen schaffen machen und geben wemb Sy wellen
+               <cei:lb facs="#facs_56_l_38" n="N015"/>wie In das am pessten fuegleich ist doch mit unserr willen und wissen und auf der vorgenanten dreyer leib Lebteg und nicht verrer damit uns und unserm Gotzhaus an unser und seiner
+               <cei:lb facs="#facs_56_l_39" n="N016"/>gerechtichait nichts abgee Und wann dye drey leib nymmer sind und mit tod vergangen und verschaiden seinn So sullen uns Ir ngst frewnt dann denselben hoff mit aller seiner czugehorung
+               <cei:lb facs="#facs_56_l_40" n="N017"/>widerumb verdienen mit dem alten dinst damit er von allter ist herkomen und als das oben an dem brieff nemleich geschriben stet nichts hindan geseczt an alle widerred ungeverleich
+               <cei:lb facs="#facs_56_l_41" n="N018"/>Teten Sy aber des nicht des Sy den alten dinst davon nicht wolt raihen als oben begriffen ist So sullen Sy uns dann denselben hoff mit aller seiner czugehorung Czustifften mit allen den eren und rechten
+               <cei:lb facs="#facs_56_l_42" n="N019"/>als der von allter ist herkomen ainem geleichem mann der uns und unserm Gotzhaus und auch In darczu gefall und fuegleich sey ungeverleich Des czu urkund Geben wir dem vorgenanten
+               <cei:lb facs="#facs_56_l_43" n="N020"/>Hannsen pogschuczen und Anna seiner hausfrawen auf dye vorgemelten drey leib Ulreichen elena und wenndlein den brieff Besigellt mit unser und unsers Convents baider anhangunden Insigeln
+               <cei:lb facs="#facs_56_l_44" n="N021"/>Geben nach christi geburd virczehen hundert Jar darnach in dem funfunddreyssigistem Jare an Montag nach Sannd Margareten tag
             </ab>
             <pb facs="#facs_57" n="57" xml:id="img_0057"/>
             <ab facs="#facs_57_tr_1">
@@ -3832,21 +3806,21 @@
                <cei:lb facs="#facs_60_l_4" n="N004"/>zu Mauttarn und pharrer zu Stokcharaw und allen seinen erben hundert guter newr ungrischer guldein
                <cei:lb facs="#facs_60_l_5" n="N005"/>gerecht in gold und wag die Sy uns zu unsers Gotzhauss nutz und notdurft berait gelihen habent Der wir
                <cei:lb facs="#facs_60_l_6" n="N006"/>sew unvertzogenlich ausrichten und betzaln sullen und wellen auf sand Merten tag nagst kunftig an wider-
-               <cei:lb facs="#facs_60_l_7" n="N007"/>red und an alles lenger vertziehen getreulich und ungeverlich Teten wir aber des nicht und In fur den [benanten
+               <cei:lb facs="#facs_60_l_7" n="N007"/>red und an alles lenger vertziehen getreulich und ungeverlich Teten wir aber des nicht und In fur den benanten
                <cei:lb facs="#facs_60_l_8" n="N008"/>tag lenger vertzugen was sew dann der obgenanten Sumb guldein furbas fur den egenanten tag schaden
                <cei:lb facs="#facs_60_l_9" n="N009"/>nemen wie der schad ungeverlich genant mocht sein kainen ausgenomen den Ir ains oder Ir Scheinbot der den
-               <cei:lb facs="#facs_60_l_10" n="N010"/>brief furbringt bey seinen trewn ungesworn an aid und an all ander bewerung mit slechten [worten gesprechen
+               <cei:lb facs="#facs_60_l_10" n="N010"/>brief furbringt bey seinen trewn ungesworn an aid und an all ander bewerung mit slechten worten gesprechen
                <cei:lb facs="#facs_60_l_11" n="N011"/>mag Denselben schaden mitsambt dem haubtgut geloben wir In genntzlichen abtzulegen und widertzukern
                <cei:lb facs="#facs_60_l_12" n="N012"/>an all Ir mu und schaden ungeverlich Sy sullen auch haubtgut und schaden haben und bekomen zu uns und
-               <cei:lb facs="#facs_60_l_13" n="N013"/>unsern Nachkomen und unverschaidenlich auf allem unserm Gut und hab so zu dem egenanten [unserm Gotzhaus
+               <cei:lb facs="#facs_60_l_13" n="N013"/>unsern Nachkomen und unverschaidenlich auf allem unserm Gut und hab so zu dem egenanten unserm Gotzhaus
                <cei:lb facs="#facs_60_l_14" n="N014"/>zu Gotweig gehoret wo wir das haben oder wo das gelegen ist nichts ausgenomen Davon sew dann ain
                <cei:lb facs="#facs_60_l_15" n="N015"/>yeder herr darunder dann solh Gut und hab gelegen sind an klag an furbot sovil Inantwurten sol wo sew darauf
                <cei:lb facs="#facs_60_l_16" n="N016"/>weisent zaigent oder komen mugen Es sey Erb oder varundgut wann sew des nach dem egenanten tag nicht lenger
                <cei:lb facs="#facs_60_l_17" n="N017"/>enpeiten wellent Soverr das Sy der egenanten Sumb guldein haubtguts und schadens gantz und gar davon
                <cei:lb facs="#facs_60_l_18" n="N018"/>ausgericht und betzalt werden das ist unser guter will wir sein lembtig oder tod Und wer auch den brief mit
                <cei:lb facs="#facs_60_l_19" n="N019"/>Irm guten willen Innhat und uns damit ermont dem sein wir alles des schuldig zugelten und zuvolfurn das
-               <cei:lb facs="#facs_60_l_20" n="N020"/>an dem brief geschriben stet zugeleicher weis als In selbs Mit urkund des briefs den wir fur uns und all [unser
-               <cei:lb facs="#facs_60_l_21" n="N021"/>nachkomen dem [egenanten hern Gotharten und allen [seinen erben geben besigilten mit [unser obgenanten Abbt und
+               <cei:lb facs="#facs_60_l_20" n="N020"/>an dem brief geschriben stet zugeleicher weis als In selbs Mit urkund des briefs den wir fur uns und all unser
+               <cei:lb facs="#facs_60_l_21" n="N021"/>nachkomen dem egenanten hern Gotharten und allen seinen erben geben besigilten mit unser obgenanten Abbt und
                <cei:lb facs="#facs_60_l_22" n="N022"/>Convents baider Anhangunden Insigiln Geben Zu Gotweig an freitag nach dem heiligen Oster tag Nach
                <cei:lb facs="#facs_60_l_23" n="N023"/>kristi gepurd virtzehenhundert Jar Darnach in dem Siben und funfczigistem Jare
             </ab>
@@ -4041,19 +4015,19 @@
             </ab>
             <pb facs="#facs_69" n="69" xml:id="img_0069"/>
             <ab facs="#facs_69_r">
-               <cei:lb facs="#facs_69_l" n="N001"/>WIr Laurentius vonn gotts [genaden Abbt unnser [lieben [frawen gotzhawss zu Gottweig Und wir
-               <cei:lb facs="#facs_69_l_1" n="N002"/>der ganntz Convent gemainklich daselbs Bekennen fur unns und all unnser [nachkommen offenlich
-               <cei:lb facs="#facs_69_l_2" n="N003"/>mit dem brief Das unns der Edl vesst unnser lieber getrwer Ulrich has unnser phleger zu [Nideren
-               <cei:lb facs="#facs_69_l_3" n="N004"/>Ranna und Margreth sein hausfraw zu [unnseren [notturfften zwayhundert ungrischer guldein gerecht
+               <cei:lb facs="#facs_69_l" n="N001"/>WIr Laurentius vonn gotts genaden Abbt unnser lieben frawen gotzhawss zu Gottweig Und wir
+               <cei:lb facs="#facs_69_l_1" n="N002"/>der ganntz Convent gemainklich daselbs Bekennen fur unns und all unnser nachkommen offenlich
+               <cei:lb facs="#facs_69_l_2" n="N003"/>mit dem brief Das unns der Edl vesst unnser lieber getrwer Ulrich has unnser phleger zu Nideren
+               <cei:lb facs="#facs_69_l_3" n="N004"/>Ranna und Margreth sein hausfraw zu unnseren notturfften zwayhundert ungrischer guldein gerecht
                <cei:lb facs="#facs_69_l_4" n="N005"/>in gold und wag perait gelihen haben Dieselbigen zwayhundert guldein Sullen und wellen wir Sy
                <cei:lb facs="#facs_69_l_5" n="N006"/>oder Ir baider erben von dato des briefs So drew Jar verganngen sind Hundert guldein betzallen
                <cei:lb facs="#facs_69_l_8" n="N007"/>Darnach aber So drew Jar verganngen sind <cei:damage>...</cei:damage>r hundert guldein betzallen Und ob wir des nicht
-               <cei:lb facs="#facs_69_l_10" n="N008"/>[tetten Was Sy solher Ir [Summ guldein [schaden nemen Sol wir Sy vonn erheben an allen Iren
-               <cei:lb facs="#facs_69_l_11" n="N009"/>schaden Und sullen das haben zu unns und allen [unnseren Nachkomen und zu des [benanten
-               <cei:lb facs="#facs_69_l_12" n="N010"/>Gotzhaws [gueteren bekomen Wie recht ist So lanng Sy des hawbtguts und schadens betzalt sind
-               <cei:lb facs="#facs_69_l_13" n="N011"/>alles trewlich und ungeverlich Mit Urkund des briefs besigelt mit [unnserem des [benanten Abbt
-               <cei:lb facs="#facs_69_l_14" n="N012"/>Larentzen und Convennt baider Anhangunden [Insigeln Geben nach Cristi gepurde Tausent
-               <cei:lb facs="#facs_69_l_15" n="N013"/>Vierhundert und darnach Im funff und [Sybentzigisten Jare an unnser [lieben frawen tag der Liechtmess
+               <cei:lb facs="#facs_69_l_10" n="N008"/>tetten Was Sy solher Ir Summ guldein schaden nemen Sol wir Sy vonn erheben an allen Iren
+               <cei:lb facs="#facs_69_l_11" n="N009"/>schaden Und sullen das haben zu unns und allen unnseren Nachkomen und zu des benanten
+               <cei:lb facs="#facs_69_l_12" n="N010"/>Gotzhaws gueteren bekomen Wie recht ist So lanng Sy des hawbtguts und schadens betzalt sind
+               <cei:lb facs="#facs_69_l_13" n="N011"/>alles trewlich und ungeverlich Mit Urkund des briefs besigelt mit unnserem des benanten Abbt
+               <cei:lb facs="#facs_69_l_14" n="N012"/>Larentzen und Convennt baider Anhangunden Insigeln Geben nach Cristi gepurde Tausent
+               <cei:lb facs="#facs_69_l_15" n="N013"/>Vierhundert und darnach Im funff und Sybentzigisten Jare an unnser lieben frawen tag der Liechtmess
             </ab>
             <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             <ab facs="#facs_70_r">
@@ -4281,22 +4255,22 @@
             </ab>
             <pb facs="#facs_77" n="77" xml:id="img_0077"/>
             <ab facs="#facs_77_r_2">
-               <cei:lb facs="#facs_77_l_23" n="N001"/>Wir Mathias von gots gnaden Abbt [unnser lieben frawen gotshaus zum Gottweig und wir der Convennt gemayniklich daselbs
-               <cei:lb facs="#facs_77_l_24" n="N002"/>Bekennen fur uns und all [unnser nachkomen Als weilennt Abbt Erhart [unnser vorforder gutter [gedechtnusz und der Convent zu derselben zeit schul-
-               <cei:lb facs="#facs_77_l_25" n="N003"/>dig worden sein zwayhundert phunt [phenning lanndsberung in Osterreich dem erbirdigen geistlichen herren [herrn Jacoben Brobst und dem Con-
-               <cei:lb facs="#facs_77_l_26" n="N004"/>vennt [unnser frawen gotshaws zu Closternewburg dafur sy demselben unserm vorfordern und Convent zweliff halbe fueder wein geben
-               <cei:lb facs="#facs_77_l_27" n="N005"/>haben und darumb ain [ganntzen ornat zu furphanndt ingehabt Am ersten ain grosse vollige korkappen daran zwo leissten mit tabernaklen
-               <cei:lb facs="#facs_77_l_28" n="N006"/><cei:damage>un</cei:damage>d pildern von perl gehefft und ain perlein schillt mit [unnser frawen verkundung mit ainem silbrein knoph an ainem seiden tollden daran ge-
+               <cei:lb facs="#facs_77_l_23" n="N001"/>Wir Mathias von gots gnaden Abbt unnser lieben frawen gotshaus zum Gottweig und wir der Convennt gemayniklich daselbs
+               <cei:lb facs="#facs_77_l_24" n="N002"/>Bekennen fur uns und all unnser nachkomen Als weilennt Abbt Erhart unnser vorforder gutter gedechtnusz und der Convent zu derselben zeit schul-
+               <cei:lb facs="#facs_77_l_25" n="N003"/>dig worden sein zwayhundert phunt phenning lanndsberung in Osterreich dem erbirdigen geistlichen herren herrn Jacoben Brobst und dem Con-
+               <cei:lb facs="#facs_77_l_26" n="N004"/>vennt unnser frawen gotshaws zu Closternewburg dafur sy demselben unserm vorfordern und Convent zweliff halbe fueder wein geben
+               <cei:lb facs="#facs_77_l_27" n="N005"/>haben und darumb ain ganntzen ornat zu furphanndt ingehabt Am ersten ain grosse vollige korkappen daran zwo leissten mit tabernaklen
+               <cei:lb facs="#facs_77_l_28" n="N006"/><cei:damage>un</cei:damage>d pildern von perl gehefft und ain perlein schillt mit unnser frawen verkundung mit ainem silbrein knoph an ainem seiden tollden daran ge-
                <cei:lb facs="#facs_77_l_29" n="N007"/><cei:damage>...</cei:damage> gen Item ain Casel mit ainem grossen krewtz von perl gemacht und darzu zwen levitten rokh das alles mit seiden unnderzogen und alles
-               <cei:lb facs="#facs_77_l_1" n="N008"/><cei:damage>...</cei:damage> gemusirten samad mit gulden flammen gesprenngt  <cei:damage>...</cei:damage> [zeitlichen rat und gutter vorbetrachtung und von merklicher nott-
-               <cei:lb facs="#facs_77_l" n="N009"/><cei:damage>...</cei:damage> <cei:damage>w</cei:damage>egen den [benannten gann<cei:damage>...</cei:damage> gwer wie obbenannt ist verkaufft und in kauffweis geben haben den [vorgenanten
+               <cei:lb facs="#facs_77_l_1" n="N008"/><cei:damage>...</cei:damage> gemusirten samad mit gulden flammen gesprenngt  <cei:damage>...</cei:damage> zeitlichen rat und gutter vorbetrachtung und von merklicher nott-
+               <cei:lb facs="#facs_77_l" n="N009"/><cei:damage>...</cei:damage> <cei:damage>w</cei:damage>egen den benannten gann<cei:damage>...</cei:damage> gwer wie obbenannt ist verkaufft und in kauffweis geben haben den vorgenanten
                <cei:lb facs="#facs_77_l_2" n="N010"/><cei:damage>...</cei:damage> Jacoben Brobst und Convennt zu Clossternewburg und allen irn nachkomen verkauffen und geben in den auch wissenntlich in krafft
-               <cei:lb facs="#facs_77_l_37" n="N011"/><cei:damage>...</cei:damage>s umb dy [genannten zwayhundert phunt phenning und darauf umb ain summ gellts der wir genntzlich von in gewert und berait in-
-               <cei:lb facs="#facs_77_l_38" n="N012"/>genomen haben zu rechten tagen und an allen schaden Davon so mugen sy und ir nachkomen den [obbenannten ornat mit [seiner zugehorung 
-               <cei:lb facs="#facs_77_l_39" n="N013"/>inhaben behallten und damit hanndlen wie Sew verlusst als mit annderm irn und irs gotshaws aigennthafften guttern an [unnser und [aller
+               <cei:lb facs="#facs_77_l_37" n="N011"/><cei:damage>...</cei:damage>s umb dy genannten zwayhundert phunt phenning und darauf umb ain summ gellts der wir genntzlich von in gewert und berait in-
+               <cei:lb facs="#facs_77_l_38" n="N012"/>genomen haben zu rechten tagen und an allen schaden Davon so mugen sy und ir nachkomen den obbenannten ornat mit seiner zugehorung 
+               <cei:lb facs="#facs_77_l_39" n="N013"/>inhaben behallten und damit hanndlen wie Sew verlusst als mit annderm irn und irs gotshaws aigennthafften guttern an unnser und aller
                <cei:lb facs="#facs_77_l_40" n="N014"/>unnser nachkomen und manigklich von unnsern wegen irrung und hindernus ungeverlich Des zu warer urkund geben wir in den brief
-               <cei:lb facs="#facs_77_l_41" n="N015"/>besigillten mit Unnsern abbts und Convents [vorgenannter anhanngunden Insigillen Der geben ist nach cristi gepurd im Viertzehen-
-               <cei:lb facs="#facs_77_l_42" n="N016"/>hundertissten und darnach in den newnundachtzigissten Jaren Am freitag vor Sannd [Larenntzen tag des heiligen martrer
+               <cei:lb facs="#facs_77_l_41" n="N015"/>besigillten mit Unnsern abbts und Convents vorgenannter anhanngunden Insigillen Der geben ist nach cristi gepurd im Viertzehen-
+               <cei:lb facs="#facs_77_l_42" n="N016"/>hundertissten und darnach in den newnundachtzigissten Jaren Am freitag vor Sannd Larenntzen tag des heiligen martrer
             </ab>
             <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             <ab facs="#facs_78_r_2">
