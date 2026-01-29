@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>oxygen:/eXist-db%20localhost$monasterium-localhost/db/niklas/goettweig_transcriptions/insert_goettweig.xquery</String>
+                                    <String>oxygen:/eXist$monasterium-live/db/niklas/goettweig_transcriptions/insert_goettweig.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -31,6 +31,26 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>insert_goettweig.xquery</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>insert_goettweig</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XQUERY</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>oxygen:/eXist-db%20localhost$monasterium-localhost/db/niklas/goettweig_transcriptions/insert_goettweig.xquery</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -130,7 +150,7 @@
                                     <String-array/>
                                 </field>
                                 <field name="xslTransformer">
-                                    <String>monasterium-localhost</String>
+                                    <String>monasterium-live</String>
                                 </field>
                                 <field name="extensionURLs">
                                     <String-array/>

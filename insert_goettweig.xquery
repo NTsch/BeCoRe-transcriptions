@@ -15,7 +15,7 @@ let $charter-path := concat('/db/mom-data/metadata.charter.public/AT-StiAG/Goett
 let $charter := doc($charter-path)
 let $old-tenor := $charter/atom:entry/atom:content/cei:text/cei:body/cei:tenor
 let $new-tenor := <cei:tenor>{$entry//node()}</cei:tenor>
-let $transcription-note := <cei:p type='transcription note'>Urkunden dieses Fonds wurden transkribiert von Gerlinde Gangl &amp; Johannes Laroche.</cei:p>
+let $transcription-note := <cei:p type='transcription note'>Transkription durch Gerlinde Gangl &amp; Johannes Laroche.</cei:p>
 let $transcription-state := <cei:p type='transcription state'>Bearbeitungsstand: MITTEL</cei:p>
 return if (exists($charter)) then (
     update delete $charter/atom:entry/atom:content/cei:text/cei:body/cei:chDesc/cei:diplomaticAnalysis/cei:p[@type='transcription note'],
